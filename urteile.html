@@ -1,6 +1,19 @@
-<html>
+<html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<body>
+<style type="text/css">
+a { text-decoration: none; }
+table { border-collapse: collapse; width: 100%; margin-bottom: 2em; }
+caption { background-color: #ddf; padding: 0.2em 2.5em; }
+tr.head { background-color: #ccf; border-bottom: 2px solid black; }
+tr.head th { padding: 0.3em 1em 0.3em 0em; text-align: left; }
+tr.head th:first-child { padding-right: 3em; }
+tr.az { border-top: 1px solid #aaa; }
+tr.az td { padding: 5px 0.7em 5px 0; vertical-align: top; }
+tr.az :first-child { border-bottom: 1px solid #aaa }
+tr.ds { border-bottom: 1px solid #aaa; }
+tr.ds td { padding-bottom: 5px; }
+</style>
+</head><body>
 <script type="text/javascript">
 var http_request = new XMLHttpRequest();
 http_request.open("GET", 'urteile.json', true);
@@ -14,28 +27,89 @@ http_request.onreadystatechange = function () {
 http_request.send(null);
 
 function urteilsliste(sginfo) {
- var oldTable = document.getElementById('urteile'),
-     newTable = oldTable.cloneNode();
+ var oldDiv = document.getElementById('urteile'),
+     newDiv = oldDiv.cloneNode();
 
  for(var bsg = 0; bsg < sginfo.length; bsg++) {
-  var tr = document.createElement('tr');
+  var t = document.createElement('table');
 
-  var td = document.createElement('td');
-  td.appendChild(document.createTextNode(sginfo[bsg].BSG));
-  tr.appendChild(td);
-  var td = document.createElement('td');
+  var tc = document.createElement('caption');
+  var b = document.createElement('h3');
+  b.appendChild(document.createTextNode(sginfo[bsg].BSG));
+  b.appendChild(document.createTextNode(". Bundesschiedsgericht "));
+  b.appendChild(document.createTextNode(sginfo[bsg].Zeitraum));
+  tc.appendChild(b);
+
+  var p = document.createElement('p');
   for (var richter = 0; richter < sginfo[bsg].Richter.length; richter++) {
-   td.appendChild(document.createTextNode(sginfo[bsg].Richter[richter].Name));
+   if (richter > 0) {
+    p.appendChild(document.createTextNode(', '));
+    if ((richter % 4) == 0) { p.appendChild(document.createElement('br')); }
+   }
+
+   if (typeof sginfo[bsg].Richter[richter].Link != 'undefined') {
+    var a = document.createElement('a');
+    a.appendChild(document.createTextNode(sginfo[bsg].Richter[richter].Name));
+    a.href = sginfo[bsg].Richter[richter].Link;
+    p.appendChild(a);
+   } else {
+    p.appendChild(document.createTextNode(sginfo[bsg].Richter[richter].Name));
+   }
+   if (typeof sginfo[bsg].Richter[richter].Vorsitz != 'undefined') {
+    p.appendChild(document.createTextNode(" (Vorsitzender Richter)"));
+   }
+   if (typeof sginfo[bsg].Richter[richter].Ersatz != 'undefined') {
+    p.appendChild(document.createTextNode(" (Ersatzrichter)"));
+   }
   }
-  tr.appendChild(td);
-  newTable.appendChild(tr);
+  p.appendChild(document.createElement('br'));
+  var sm = document.createElement('small');
+  p.appendChild(sm);
+  tc.appendChild(p);
+  t.appendChild(tc);
+
+  var tr = document.createElement('tr');
+  tr.className = "head";
+  var th = document.createElement('th');
+  th.appendChild(document.createTextNode("Aktenzeichen"));
+  tr.appendChild(th);
+  var th = document.createElement('th');
+  th.appendChild(document.createTextNode("Anrufung"));
+  tr.appendChild(th);
+  var th = document.createElement('th');
+  th.appendChild(document.createTextNode("Erledigung"));
+  tr.appendChild(th);
+  var th = document.createElement('th');
+  th.appendChild(document.createTextNode("Ergebnis"));
+  tr.appendChild(th);
+  t.appendChild(tr);
 
   urteile = sginfo[bsg].Urteile;
+  if (urteile.length == 0) {
+   var tr = document.createElement('tr');
+   tr.className="ds";
+   var td = document.createElement('td');
+   td.innerHTML = "&mdash;"
+   tr.appendChild(td);
+   var td = document.createElement('td');
+   td.innerHTML = "&mdash;"
+   tr.appendChild(td);
+   var td = document.createElement('td');
+   td.innerHTML = "&mdash;"
+   tr.appendChild(td);
+   var td = document.createElement('td');
+   td.innerHTML = "&mdash;"
+   tr.appendChild(td);
+   t.appendChild(tr);
+  }
+
   for(var i = 0; i < urteile.length; i++){
    var tr = document.createElement('tr');
+   tr.className = "az";
 
    var td = document.createElement('td');
    td.appendChild(document.createTextNode(urteile[i].Aktenzeichen));
+   td.rowSpan=2;
    tr.appendChild(td);
    var td = document.createElement('td');
    td.appendChild(document.createTextNode(urteile[i].Anrufung));
@@ -47,18 +121,21 @@ function urteilsliste(sginfo) {
    td.appendChild(document.createTextNode(urteile[i].Ergebnis));
    tr.appendChild(td);
 
-   newTable.appendChild(tr);
+   t.appendChild(tr);
 
    var tr = document.createElement('tr');
+   tr.className = "ds";
    var td = document.createElement('td');
    td.innerHTML = urteile[i].Zusammenfassung;
+   td.colSpan = 3;
    tr.appendChild(td);
-   newTable.appendChild(tr);
+   t.appendChild(tr);
   }
+  newDiv.appendChild(t);
  }
- oldTable.parentNode.replaceChild(newTable, oldTable);
+ oldDiv.parentNode.replaceChild(newDiv, oldDiv);
 }
 </script>
 
-<table id="urteile"></table>
+<div id="urteile"></div>
 </body></html>

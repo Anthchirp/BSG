@@ -4,10 +4,10 @@
   "Zeitraum": "2007/08",
   "Wahl": "20. Mai 2007",
   "Richter": [
-   { "Name": "Ingo Ponickau", "Vorsitz": 1 },
+   { "Name": "Ingo Ponickau", "Vorsitz": 1, "Link": "http://wiki.piratenpartei.de/Benutzer:Pdg" },
    { "Name": "K.-S. Mo" },
-   { "Name": "Michael Herbst" },
-   { "Name": "Leo Wandersleb", "Ersatz": 1 } ],
+   { "Name": "Michael Herbst", "Link": "http://wiki.piratenpartei.de/Benutzer:Cyzen" },
+   { "Name": "Leo Wandersleb", "Ersatz": 1, "Link": "http://wiki.piratenpartei.de/Benutzer:Lw" } ],
   "Urteile": []
  },
 
@@ -16,13 +16,13 @@
   "Zeitraum": "2008/09",
   "Wahl": "18. Mai 2008",
   "Richter": [
-   { "Name": "Ingo Ponickau", "Vorsitz": 1 },
-   { "Name": "Wilhelm Gasser" },
-   { "Name": "Sebastian Mohr" },
-   { "Name": "Carsten Neumann" },
-   { "Name": "Andreas Romeyke" },
-   { "Name": "Harald Kibbat", "Ersatz": 1 },
-   { "Name": "Bodo Thiesen", "Ersatz": 1 } ],
+   { "Name": "Ingo Ponickau", "Vorsitz": 1, "Link": "http://wiki.piratenpartei.de/Benutzer:Pdg" },
+   { "Name": "Wilhelm Gasser", "Link": "http://wiki.piratenpartei.de/Benutzer:Icho40" },
+   { "Name": "Sebastian Mohr", "Link": "http://wiki.piratenpartei.de/Benutzer:Sebi" },
+   { "Name": "Carsten Neumann", "Link": "http://wiki.piratenpartei.de/Benutzer:Rambodieschen" },
+   { "Name": "Andreas Romeyke", "Link": "http://wiki.piratenpartei.de/Benutzer:AndreasRomeyke" },
+   { "Name": "Harald Kibbat", "Ersatz": 1, "Link": "http://wiki.piratenpartei.de/Benutzer:MainBrain" },
+   { "Name": "Bodo Thiesen", "Ersatz": 1, "Link": "http://wiki.piratenpartei.de/Benutzer:Bodo_Thiesen" } ],
   "Urteile": [
    {
     "Aktenzeichen": "BSG 2008-05-18-1",

@@ -64,6 +64,14 @@ function urteilsliste(sginfo) {
   }
   p.appendChild(document.createElement('br'));
   var sm = document.createElement('small');
+  sm.innerHTML = 'gew&auml;hlt am ' + sginfo[bsg].Wahl;
+  if (typeof sginfo[bsg].Abschlussbericht != 'undefined') {
+   sm.appendChild(document.createTextNode(", "));
+   var a = document.createElement('a');
+   a.appendChild(document.createTextNode("Abschlussbericht"));
+   a.href = sginfo[bsg].Abschlussbericht;
+   sm.appendChild(a);
+  }
   p.appendChild(sm);
   tc.appendChild(p);
   t.appendChild(tc);

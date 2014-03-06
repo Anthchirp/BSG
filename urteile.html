@@ -7,37 +7,54 @@ http_request.open("GET", 'urteile.json', true);
 http_request.onreadystatechange = function () {
  var done = 4, ok = 200;
  if (http_request.readyState === done && http_request.status === ok) {
-  urteilsliste(JSON.parse(http_request.responseText));
+  bsginfo = JSON.parse(http_request.responseText);
+  urteilsliste(bsginfo);
  }
 };
 http_request.send(null);
 
-function urteilsliste(urteile) {
+function urteilsliste(sginfo) {
  var oldTable = document.getElementById('urteile'),
      newTable = oldTable.cloneNode();
- for(var i = 0; i < urteile.length; i++){
+
+ for(var bsg = 0; bsg < sginfo.length; bsg++) {
   var tr = document.createElement('tr');
 
   var td = document.createElement('td');
-  td.appendChild(document.createTextNode(urteile[i].Aktenzeichen));
+  td.appendChild(document.createTextNode(sginfo[bsg].BSG));
   tr.appendChild(td);
   var td = document.createElement('td');
-  td.appendChild(document.createTextNode(urteile[i].Anrufung));
+  for (var richter = 0; richter < sginfo[bsg].Richter.length; richter++) {
+   td.appendChild(document.createTextNode(sginfo[bsg].Richter[richter].Name));
+  }
   tr.appendChild(td);
-  var td = document.createElement('td');
-  td.appendChild(document.createTextNode(urteile[i].Erledigung));
-  tr.appendChild(td);
-  var td = document.createElement('td');
-  td.appendChild(document.createTextNode(urteile[i].Ergebnis));
-  tr.appendChild(td);
-
   newTable.appendChild(tr);
 
-  var tr = document.createElement('tr');
-  var td = document.createElement('td');
-  td.appendChild(document.createTextNode(urteile[i].Zusammenfassung));
-  tr.appendChild(td);
-  newTable.appendChild(tr);
+  urteile = sginfo[bsg].Urteile;
+  for(var i = 0; i < urteile.length; i++){
+   var tr = document.createElement('tr');
+
+   var td = document.createElement('td');
+   td.appendChild(document.createTextNode(urteile[i].Aktenzeichen));
+   tr.appendChild(td);
+   var td = document.createElement('td');
+   td.appendChild(document.createTextNode(urteile[i].Anrufung));
+   tr.appendChild(td);
+   var td = document.createElement('td');
+   td.appendChild(document.createTextNode(urteile[i].Erledigung));
+   tr.appendChild(td);
+   var td = document.createElement('td');
+   td.appendChild(document.createTextNode(urteile[i].Ergebnis));
+   tr.appendChild(td);
+
+   newTable.appendChild(tr);
+
+   var tr = document.createElement('tr');
+   var td = document.createElement('td');
+   td.innerHTML = urteile[i].Zusammenfassung;
+   tr.appendChild(td);
+   newTable.appendChild(tr);
+  }
  }
  oldTable.parentNode.replaceChild(newTable, oldTable);
 }

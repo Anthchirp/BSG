@@ -1,10 +1,45 @@
 [
  {
-  "Aktenzeichen": "BSG 2008-05-18-1",
-  "Anrufung": "18.05.2008",
-  "Erledigung": "05.04.2009",
-  "Urteil": "BSG 2008-05-18-1.pdf",
-  "Ergebnis": "Klage abgewiesen",
-  "Zusammenfassung": "Die Klage richtete sich gegen eine Satzungsänderung, zu der eine 2/3-Mehrheit erforderlich war. Das Gericht stellte fest, dass diese Mehrheit erreicht war. Bis zu einer entsprechenden Änderung der Mehrheitsregelung sind in Protokollen Abstimmungsergebnisse so detailliert aufzuführen, dass eine nachträgliche Bewertung möglich ist."
+  "BSG": 1,
+  "Zeitraum": "2007/08",
+  "Wahl": "20. Mai 2007",
+  "Richter": [
+   { "Name": "Ingo Ponickau", "Vorsitz": 1 },
+   { "Name": "K.-S. Mo" },
+   { "Name": "Michael Herbst" },
+   { "Name": "Leo Wandersleb", "Ersatz": 1 } ],
+  "Urteile": []
+ },
+
+ {
+  "BSG": 2,
+  "Zeitraum": "2008/09",
+  "Wahl": "18. Mai 2008",
+  "Richter": [
+   { "Name": "Ingo Ponickau", "Vorsitz": 1 },
+   { "Name": "Wilhelm Gasser" },
+   { "Name": "Sebastian Mohr" },
+   { "Name": "Carsten Neumann" },
+   { "Name": "Andreas Romeyke" },
+   { "Name": "Harald Kibbat", "Ersatz": 1 },
+   { "Name": "Bodo Thiesen", "Ersatz": 1 } ],
+  "Urteile": [
+   {
+    "Aktenzeichen": "BSG 2008-05-18-1",
+    "Anrufung": "18.05.2008",
+    "Erledigung": "05.04.2009",
+    "Urteil": "BSG 2008-05-18-1.pdf",
+    "Ergebnis": "Klage abgewiesen",
+    "Zusammenfassung": "Die Klage richtete sich gegen eine Satzungs&auml;nderung, zu der eine 2/3-Mehrheit erforderlich war. Das Gericht stellte fest, dass diese Mehrheit erreicht war. Bis zu einer entsprechenden &Auml;nderung der Mehrheitsregelung sind in Protokollen Abstimmungsergebnisse so detailliert aufzuf&uuml;hren, dass eine nachtr&auml;gliche Bewertung m&ouml;glich ist."
+   },
+   {
+    "Aktenzeichen": "BSG 2009-03-18",
+    "Anrufung": "31.09.2009",
+    "Erledigung": "10.05.2009",
+    "Urteil": "BSG 2009-03-18.pdf",
+    "Ergebnis": "Klage teilweise stattgegeben",
+    "Zusammenfassung": "Die Klage richtete sich auf Feststellung der Amtsdauer des Bundesvorstandes. Das Gericht stellte fest, dass die Amtszeit des Vorstandes auf 365 Tage begrenzt war. (Der entsprechende Satzungsabschnitt wurde auf dem folgenden BPT 2009.1 <a href=\"http://wiki.piratenpartei.de/Bundesparteitag_2009.1/Satzungs%C3%A4nderungsantr%C3%A4ge/S/SA1\">ge&auml;ndert</a>"
+   }
+  ]
  }
 ]

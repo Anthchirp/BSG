@@ -1,18 +1,6 @@
 <html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<style type="text/css">
-a { text-decoration: none; }
-table { border-collapse: collapse; width: 100%; margin-bottom: 2em; }
-caption { background-color: #ddf; padding: 0.2em 2.5em; }
-tr.head { background-color: #ccf; border-bottom: 2px solid black; }
-tr.head th { padding: 0.3em 1em 0.3em 0em; text-align: left; }
-tr.head th:first-child { padding-right: 3em; }
-tr.az { border-top: 1px solid #aaa; }
-tr.az td { padding: 5px 0.7em 5px 0; vertical-align: top; }
-tr.az :first-child { border-bottom: 1px solid #aaa }
-tr.ds { border-bottom: 1px solid #aaa; }
-tr.ds td { padding-bottom: 5px; }
-</style>
+<link rel="stylesheet" type="text/css" href="urteile.css" />
 </head><body>
 <script type="text/javascript">
 var http_request = new XMLHttpRequest();
@@ -95,7 +83,7 @@ function urteilsliste(sginfo) {
   urteile = sginfo[bsg].Urteile;
   if (urteile.length == 0) {
    var tr = document.createElement('tr');
-   tr.className="ds";
+   tr.className="bl";
    var td = document.createElement('td');
    td.innerHTML = "&mdash;"
    tr.appendChild(td);
@@ -116,7 +104,15 @@ function urteilsliste(sginfo) {
    tr.className = "az";
 
    var td = document.createElement('td');
-   td.appendChild(document.createTextNode(urteile[i].Aktenzeichen));
+   if (typeof urteile[i].Urteil != 'undefined') {
+    var a = document.createElement('a');
+    a.appendChild(document.createTextNode(urteile[i].Aktenzeichen));
+    a.href = urteile[i].Urteil;
+    td.appendChild(a);
+   } else {
+    td.appendChild(document.createTextNode(urteile[i].Aktenzeichen));
+   }
+
    td.rowSpan=2;
    tr.appendChild(td);
    var td = document.createElement('td');

@@ -33,11 +33,13 @@ function urteilsliste(htmlelement,sginfo) {
 
    if (typeof sginfo[bsg].Richter[richter].Link != 'undefined') {
     var a = document.createElement('a');
-    a.appendChild(document.createTextNode(sginfo[bsg].Richter[richter].Name));
+    a.innerHTML = sginfo[bsg].Richter[richter].Name;
     a.href = sginfo[bsg].Richter[richter].Link;
     p.appendChild(a);
    } else {
-    p.appendChild(document.createTextNode(sginfo[bsg].Richter[richter].Name));
+    var n = document.createElement('span');
+    n.innerHTML = sginfo[bsg].Richter[richter].Name;
+    p.appendChild(n);
    }
    if (typeof sginfo[bsg].Richter[richter].Vorsitz != 'undefined') {
     p.appendChild(document.createTextNode(" (Vorsitzender Richter)"));

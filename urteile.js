@@ -11,9 +11,10 @@ String.prototype.hashCode = function() {
 }
 
 
-function urteilsliste(htmlelement,sginfo) {
+function urteilsliste(htmlelement, sginfo, baseurl) {
  var oldDiv = htmlelement, 
      newDiv = oldDiv.cloneNode();
+ baseurl = typeof baseurl !== 'undefined' ? baseurl : '';
 
  for(var bsg = 0; bsg < sginfo.length; bsg++) {
   var t = document.createElement('table');
@@ -107,7 +108,7 @@ function urteilsliste(htmlelement,sginfo) {
    {
     var d = document.createElement('div');
     var img = document.createElement('img');
-    img.src = "link.png"; // from https://www.iconfinder.com/icons/211853/link_icon#size=24
+    img.src = baseurl + "link.png"; // from https://www.iconfinder.com/icons/211853/link_icon#size=24
     d.appendChild(img); // document.createTextNode(urteile[i].Aktenzeichen.hashCode()));
     d.id = urteile[i].Aktenzeichen.hashCode();
     d.className = "anchor";
@@ -117,7 +118,7 @@ function urteilsliste(htmlelement,sginfo) {
    if (typeof urteile[i].Urteil != 'undefined') {
     var a = document.createElement('a');
     a.appendChild(document.createTextNode(urteile[i].Aktenzeichen));
-    a.href = urteile[i].Urteil;
+    a.href = baseurl + urteile[i].Urteil;
     td.appendChild(a);
    } else {
     td.appendChild(document.createTextNode(urteile[i].Aktenzeichen));

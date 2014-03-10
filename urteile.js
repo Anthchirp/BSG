@@ -1,14 +1,15 @@
-// example code:
-// var http_request = new XMLHttpRequest();
-// http_request.open("GET", 'urteile.json', true);
-// http_request.onreadystatechange = function () {
-//  var done = 4, ok = 200;
-//  if (http_request.readyState === done && http_request.status === ok) {
-//   bsginfo = JSON.parse(http_request.responseText);
-//   urteilsliste(document.getElementById('urteile'), bsginfo);
-//  }
-// };
-// http_request.send(null);
+// based on http://werxltd.com/wp/2010/05/13/javascript-implementation-of-javas-string-hashcode-method/
+String.prototype.hashCode = function() {
+ var hash = 0;
+ if (this.length == 0) return hash;
+ for (i = 0; i < this.length; i++) {
+  char = this.charCodeAt(i);
+  hash = ((hash<<5)-hash)+char;
+  hash |= 0; // Convert to 32bit integer
+ }
+ return Math.abs(hash);
+}
+
 
 function urteilsliste(htmlelement,sginfo) {
  var oldDiv = htmlelement, 
@@ -98,10 +99,21 @@ function urteilsliste(htmlelement,sginfo) {
   }
 
   for(var i = 0; i < urteile.length; i++){
+   var tb = document.createElement('tbody');
    var tr = document.createElement('tr');
    tr.className = "az";
 
    var td = document.createElement('td');
+   {
+    var d = document.createElement('div');
+    var img = document.createElement('img');
+    img.src = "link.png";
+    d.appendChild(img); // document.createTextNode(urteile[i].Aktenzeichen.hashCode()));
+    d.id = urteile[i].Aktenzeichen.hashCode();
+    d.className = "anchor";
+    d.onclick = function() { window.location.hash = "#" + this.id; };
+    td.appendChild(d);
+   }
    if (typeof urteile[i].Urteil != 'undefined') {
     var a = document.createElement('a');
     a.appendChild(document.createTextNode(urteile[i].Aktenzeichen));
@@ -123,7 +135,7 @@ function urteilsliste(htmlelement,sginfo) {
    td.appendChild(document.createTextNode(urteile[i].Ergebnis));
    tr.appendChild(td);
 
-   t.appendChild(tr);
+   tb.appendChild(tr);
 
    var tr = document.createElement('tr');
    tr.className = "ds";
@@ -131,9 +143,28 @@ function urteilsliste(htmlelement,sginfo) {
    td.innerHTML = urteile[i].Zusammenfassung;
    td.colSpan = 3;
    tr.appendChild(td);
-   t.appendChild(tr);
+   tb.appendChild(tr);
+   t.appendChild(tb);
   }
   newDiv.appendChild(t);
  }
  oldDiv.parentNode.replaceChild(newDiv, oldDiv);
+
+ // Scroll script from: http://stackoverflow.com/questions/4801655/how-to-go-to-a-specific-element-on-page
+ // Finds y value of given object
+ function findPos(obj) {
+  var curtop = 0;
+  if (obj.offsetParent) {
+   do {
+    curtop += obj.offsetTop;
+   } while (obj = obj.offsetParent);
+   return [curtop];
+  }
+ }
+ function scrollTo(hash) {
+  window.scroll(0,findPos(document.getElementById(hash)));
+ }
+ if (window.location.hash != '') {
+  scrollTo(window.location.hash.substring(1));
+ }
 }

@@ -13,3 +13,7 @@ tr.ds { border-bottom: 1px solid #aaa; }
 tr.ds td { padding-bottom: 5px; }
 tr.bl { border-bottom: 1px solid #aaa; }
 tr.bl td:first-child { padding-left: 0.5em; }
+
+tbody .anchor { position: relative; left: -24px; height: 0; margin: 0; padding: 0; opacity: 0; cursor: pointer; }
+tbody:hover .anchor { opacity: 0.5; }
+tbody:hover .anchor:hover { opacity: 1; }

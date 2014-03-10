@@ -59,5 +59,76 @@
   "Abschlussbericht": "http://wiki.piratenpartei.de/Bundesparteitag_2010.1/Protokoll#Bericht_des_Schiedsgerichts",
   "Urteile": [
   ]
+ },
+
+
+ {
+  "BSG": 4,
+  "Zeitraum": "2010/11",
+  "Wahl": "16. Mai 2010",
+  "Richter": [
+   { "Name": "Stephan Urbach", "Vorsitz": 1, "Link": "http://wiki.piratenpartei.de/Benutzer:Tomate" },
+   { "Name": "Joachim Bokor", "Link": "http://wiki.piratenpartei.de/Benutzer:Puck.152" },
+   { "Name": "Andreas Romeyke", "Link": "http://wiki.piratenpartei.de/Benutzer:AndreasRomeyke" },
+   { "Name": "Hartmut Semken", "Link": "http://wiki.piratenpartei.de/Benutzer:Hase" },
+   { "Name": "Harald Kibbat", "Link": "http://wiki.piratenpartei.de/Benutzer:MainBrain" },
+   { "Name": "Sebastian Mohr", "Ersatz": 1, "Link": "http://wiki.piratenpartei.de/Benutzer:Sebi" },
+   { "Name": "C&eacute;dric Menge", "Ersatz": 1 } ],
+  "Abschlussbericht": "http://wiki.piratenpartei.de/Bundesparteitag_2011.1/Protokoll-2011-05-14#A20",
+  "Urteile": [
+  ]
+ },
+
+
+ {
+  "BSG": 5,
+  "Zeitraum": "2011/12",
+  "Wahl": "14. Mai 2011",
+  "Richter": [
+   { "Name": "Joachim Bokor", "Vorsitz": 1, "Link": "http://wiki.piratenpartei.de/Benutzer:Puck.152" },
+   { "Name": "Harald Kibbat", "Link": "http://wiki.piratenpartei.de/Benutzer:MainBrain" },
+   { "Name": "Claudia M. Schmidt", "Link": "http://wiki.piratenpartei.de/Benutzer:Claudia_M.Schmidt" },
+   { "Name": "Markus Gerstel", "Link": "http://wiki.piratenpartei.de/Benutzer:Anthem" },
+   { "Name": "Michael Ebner", "Link": "http://wiki.piratenpartei.de/Benutzer:Michael_Ebner" },
+   { "Name": "Georg von Boroviczeny", "Ersatz": 1, "Link": "http://wiki.piratenpartei.de/Benutzer:Georgberlin" },
+   { "Name": "Thomas Herzog", "Ersatz": 1 } ],
+  "Urteile": [
+  ]
+ },
+
+
+ {
+  "BSG": 6,
+  "Zeitraum": "2012/13",
+  "Wahl": "29. April 2012",
+  "Richter": [
+   { "Name": "Markus Gerstel", "Vorsitz": 1, "Link": "http://wiki.piratenpartei.de/Benutzer:Anthem" },
+   { "Name": "Joachim Bokor", "Link": "http://wiki.piratenpartei.de/Benutzer:Puck.152" },
+   { "Name": "Claudia M. Schmidt", "Link": "http://wiki.piratenpartei.de/Benutzer:Claudia_M.Schmidt" },
+   { "Name": "Markus Kompa", "Link": "http://wiki.piratenpartei.de/Benutzer:Markus_Kompa" },
+   { "Name": "Benjamin Siggel", "Link": "http://wiki.piratenpartei.de/Benutzer:Crackpille" },
+   { "Name": "Katrin Kirchert", "Ersatz": 1, "Link": "http://wiki.piratenpartei.de/Benutzer:Deanna" },
+   { "Name": "Georg von Boroviczeny", "Ersatz": 1, "Link": "http://wiki.piratenpartei.de/Benutzer:Georgberlin" } ],
+  "Urteile": [
+  ]
+ },
+
+
+ {
+  "BSG": 7,
+  "Zeitraum": "2013/15",
+  "Wahl": "01. Dezember 2013",
+  "Richter": [
+   { "Name": "Markus Gerstel", "Vorsitz": 1, "Link": "http://wiki.piratenpartei.de/Benutzer:Anthem" },
+   { "Name": "Claudia M. Schmidt", "Link": "http://wiki.piratenpartei.de/Benutzer:Claudia_M.Schmidt" },
+   { "Name": "Daniela Berger", "Link": "http://wiki.piratenpartei.de/Benutzer:DanielaKay" },
+   { "Name": "Florian Zumkeller-Quast", "Link": "http://wiki.piratenpartei.de/Benutzer:Branleb" },
+   { "Name": "Benjamin Siggel", "Link": "http://wiki.piratenpartei.de/Benutzer:Crackpille" },
+   { "Name": "Georg von Boroviczeny", "Link": "http://wiki.piratenpartei.de/Benutzer:Georgberlin" },
+   { "Name": "Lara L&auml;mke", "Ersatz": 1, "Link": "http://wiki.piratenpartei.de/Benutzer:Sofakante" },
+   { "Name": "Harald Kibbat", "Ersatz": 1, "Link": "http://wiki.piratenpartei.de/Benutzer:MainBrain" } ],
+  "Urteile": [
+  ]
  }
+
 ]

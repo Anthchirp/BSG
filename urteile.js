@@ -107,7 +107,7 @@ function urteilsliste(htmlelement,sginfo) {
    {
     var d = document.createElement('div');
     var img = document.createElement('img');
-    img.src = "link.png";
+    img.src = "link.png"; // from https://www.iconfinder.com/icons/211853/link_icon#size=24
     d.appendChild(img); // document.createTextNode(urteile[i].Aktenzeichen.hashCode()));
     d.id = urteile[i].Aktenzeichen.hashCode();
     d.className = "anchor";

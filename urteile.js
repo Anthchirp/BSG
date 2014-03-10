@@ -111,7 +111,7 @@ function urteilsliste(htmlelement,sginfo) {
     d.appendChild(img); // document.createTextNode(urteile[i].Aktenzeichen.hashCode()));
     d.id = urteile[i].Aktenzeichen.hashCode();
     d.className = "anchor";
-    d.onclick = function() { window.location.hash = "#" + this.id; };
+    d.onclick = function() { window.location.hash = "#" + this.id; scrollTo(this.id); };
     td.appendChild(d);
    }
    if (typeof urteile[i].Urteil != 'undefined') {
@@ -162,7 +162,12 @@ function urteilsliste(htmlelement,sginfo) {
   }
  }
  function scrollTo(hash) {
+  if (!(typeof scrollTo.active == 'undefined')) {
+   document.getElementById(scrollTo.active).parentNode.parentNode.parentNode.className = '';
+  }
   window.scroll(0,findPos(document.getElementById(hash)));
+  document.getElementById(hash).parentNode.parentNode.parentNode.className = 'highlight';
+  scrollTo.active = hash;
  }
  if (window.location.hash != '') {
   scrollTo(window.location.hash.substring(1));

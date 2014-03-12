@@ -69,7 +69,7 @@
    {
     "Aktenzeichen": "BSG 2009-11-05",
     "Anrufung": "05.11.2009",
-    "Historie": [ { "Erstinstanz": "22.10.2009" }, { "Verweisung": "05.11.2009" } ],
+    "Historie": [ { "Ereignis": "Anrufung Erstinstanz", "Datum": "22.10.2009" }, { "Ereignis": "Verweisung", "Datum": "05.11.2009" } ],
     "Erledigung": "12.04.2010",
     "Urteil": "BSG 2009-11-05.pdf",
     "Ergebnis": "Klage abgewiesen",

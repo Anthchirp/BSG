@@ -128,6 +128,19 @@ function urteilsliste(htmlelement, sginfo, baseurl) {
    tr.appendChild(td);
    var td = document.createElement('td');
    td.appendChild(document.createTextNode(urteile[i].Anrufung));
+   if (typeof urteile[i].Historie != 'undefined') {
+    var d = document.createElement('span');
+    d.className = 'extrainfo';
+    d.appendChild(document.createTextNode('+'));
+    var p = document.createElement('div');
+    p.className = 'extrainfosup';
+    for(var h = 0; h < urteile[i].Historie.length; h++){
+     p.appendChild(document.createTextNode(urteile[i].Historie[h].Ereignis + ": " + urteile[i].Historie[h].Datum));
+     p.appendChild(document.createElement('br'));
+    }
+    d.appendChild(p);
+    td.appendChild(d);
+   }
    tr.appendChild(td);
    var td = document.createElement('td');
    td.appendChild(document.createTextNode(urteile[i].Erledigung));

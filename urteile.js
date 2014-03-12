@@ -143,10 +143,12 @@ function urteilsliste(htmlelement, sginfo, baseurl) {
    }
    tr.appendChild(td);
    var td = document.createElement('td');
-   td.appendChild(document.createTextNode(urteile[i].Erledigung));
+   if (typeof urteile[i].Erledigung != 'undefined')
+    td.appendChild(document.createTextNode(urteile[i].Erledigung));
    tr.appendChild(td);
    var td = document.createElement('td');
-   td.appendChild(document.createTextNode(urteile[i].Ergebnis));
+   if (typeof urteile[i].Ergebnis != 'undefined')
+    td.appendChild(document.createTextNode(urteile[i].Ergebnis));
    tr.appendChild(td);
 
    tb.appendChild(tr);

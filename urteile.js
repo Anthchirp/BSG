@@ -135,7 +135,7 @@ function urteilsliste(htmlelement, sginfo, baseurl) {
     var p = document.createElement('div');
     p.className = 'extrainfosup';
     for(var h = 0; h < urteile[i].Historie.length; h++){
-     p.appendChild(document.createTextNode(urteile[i].Historie[h].Ereignis + ": " + urteile[i].Historie[h].Datum));
+     p.appendChild(document.createTextNode(urteile[i].Historie[h].Datum + ": " + urteile[i].Historie[h].Ereignis));
      p.appendChild(document.createElement('br'));
     }
     d.appendChild(p);

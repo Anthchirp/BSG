@@ -10,6 +10,50 @@ String.prototype.hashCode = function() {
  return Math.abs(hash);
 }
 
+function setAnchor(hash, baseurl) {
+ var d = document.createElement('div');
+ var img = document.createElement('img');
+ img.src = baseurl + "link.png"; // from https://www.iconfinder.com/icons/211853/link_icon#size=24
+ d.appendChild(img);
+ d.id = hash;
+ d.className = "anchor";
+ d.onclick = function() { window.location.hash = "#" + this.id; scrollTo(this.id); };
+ return d;
+}
+
+// Scroll script from: http://stackoverflow.com/questions/4801655/how-to-go-to-a-specific-element-on-page
+// Finds y value of given object
+function findPos(obj) {
+ var curtop = 0;
+ if (obj.offsetParent) {
+  do {
+   curtop += obj.offsetTop;
+  } while (obj = obj.offsetParent);
+  return [curtop];
+ }
+}
+function scrollTo(hash) {
+ if (!(typeof scrollTo.active == 'undefined')) {
+  highlight(document.getElementById(scrollTo.active), 0);
+ }
+ window.scroll(0,findPos(document.getElementById(hash)));
+ highlight(document.getElementById(hash), 1);
+ scrollTo.active = hash;
+}
+
+function highlight(n, h) {
+ if (!(typeof n == 'undefined')) {
+  if (n.className.indexOf('highlightable') != -1) {
+   if (h == 1) {
+    n.className = 'highlightable highlight';
+   } else {
+    n.className = 'highlightable';
+   }
+  } else {
+   highlight(n.parentNode, h);
+  }
+ }
+}
 
 function urteilsliste(htmlelement, sginfo, baseurl) {
  var oldDiv = htmlelement, 
@@ -20,6 +64,9 @@ function urteilsliste(htmlelement, sginfo, baseurl) {
   var t = document.createElement('table');
 
   var tc = document.createElement('caption');
+  tc.appendChild(setAnchor(("" + sginfo[bsg].BSG).hashCode(), baseurl));
+  tc.className = "highlightable";
+
   var b = document.createElement('h3');
   b.appendChild(document.createTextNode(sginfo[bsg].BSG));
   b.appendChild(document.createTextNode(". Bundesschiedsgericht "));
@@ -101,20 +148,12 @@ function urteilsliste(htmlelement, sginfo, baseurl) {
 
   for(var i = 0; i < urteile.length; i++){
    var tb = document.createElement('tbody');
+   tb.className = "highlightable";
    var tr = document.createElement('tr');
    tr.className = "az";
 
    var td = document.createElement('td');
-   {
-    var d = document.createElement('div');
-    var img = document.createElement('img');
-    img.src = baseurl + "link.png"; // from https://www.iconfinder.com/icons/211853/link_icon#size=24
-    d.appendChild(img); // document.createTextNode(urteile[i].Aktenzeichen.hashCode()));
-    d.id = urteile[i].Aktenzeichen.hashCode();
-    d.className = "anchor";
-    d.onclick = function() { window.location.hash = "#" + this.id; scrollTo(this.id); };
-    td.appendChild(d);
-   }
+   td.appendChild(setAnchor(urteile[i].Aktenzeichen.hashCode(), baseurl));
    if (typeof urteile[i].Urteil != 'undefined') {
     var a = document.createElement('a');
     a.appendChild(document.createTextNode(urteile[i].Aktenzeichen));
@@ -166,25 +205,6 @@ function urteilsliste(htmlelement, sginfo, baseurl) {
  }
  oldDiv.parentNode.replaceChild(newDiv, oldDiv);
 
- // Scroll script from: http://stackoverflow.com/questions/4801655/how-to-go-to-a-specific-element-on-page
- // Finds y value of given object
- function findPos(obj) {
-  var curtop = 0;
-  if (obj.offsetParent) {
-   do {
-    curtop += obj.offsetTop;
-   } while (obj = obj.offsetParent);
-   return [curtop];
-  }
- }
- function scrollTo(hash) {
-  if (!(typeof scrollTo.active == 'undefined')) {
-   document.getElementById(scrollTo.active).parentNode.parentNode.parentNode.className = '';
-  }
-  window.scroll(0,findPos(document.getElementById(hash)));
-  document.getElementById(hash).parentNode.parentNode.parentNode.className = 'highlight';
-  scrollTo.active = hash;
- }
  if (window.location.hash != '') {
   scrollTo(window.location.hash.substring(1));
  }

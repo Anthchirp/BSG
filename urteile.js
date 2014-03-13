@@ -156,7 +156,7 @@ function urteilsliste(htmlelement, sginfo, baseurl) {
    td.appendChild(setAnchor(urteile[i].Aktenzeichen.hashCode(), baseurl));
    if (typeof urteile[i].Urteil != 'undefined') {
     var a = document.createElement('a');
-    a.appendChild(document.createTextNode(urteile[i].Aktenzeichen));
+    a.innerHTML = urteile[i].Aktenzeichen;
     a.href = baseurl + urteile[i].Urteil;
     td.appendChild(a);
    } else {

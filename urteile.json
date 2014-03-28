@@ -176,14 +176,22 @@
    { "Name": "Harald Kibbat", "Ersatz": 1, "Link": "http://wiki.piratenpartei.de/Benutzer:MainBrain" } ],
   "Urteile": [
    {
+    "Aktenzeichen": "BSG 2013-11-15",
+    "Anrufung": "15.11.2013",
+    "Erledigung": "27.03.2014",
+    "Urteil": "BSG 2013-11-15.pdf",
+    "Ergebnis": "Verfahren nicht er&ouml;ffnet",
+    "Zusammenfassung": "Der Antragsteller m&ouml;chte Widerspruch gegen eine Zusammenlegung zweier Verfahren durch ein Landesschiedsgericht einlegen. Das Bundesschiedsgericht stellte fest, dass hiergegen kein Rechtsmittel besteht."
+   },
+   {
     "Aktenzeichen": "BSG 3/14-H A",
     "Anrufung": "08.02.2014",
     "Erledigung": "13.03.2014",
     "Historie": [
      { "Ereignis": "Anrufung Erstinstanz", "Datum": "16.12.2013" },
-     { "Ereignis": "Eröffnungsverzögerungsbeschwerde", "Datum": "19.01.2014" },
-     { "Ereignis": "Nichteröffnungsbeschluss Erstinstanz", "Datum": "25.01.2014" },
-     { "Ereignis": "Nichteröffnungsbeschwerde", "Datum": "08.02.2014" },
+     { "Ereignis": "Er&ouml;ffnungsverz&ouml;gerungsbeschwerde", "Datum": "19.01.2014" },
+     { "Ereignis": "Nichter&ouml;ffnungsbeschluss Erstinstanz", "Datum": "25.01.2014" },
+     { "Ereignis": "Nichter&ouml;ffnungsbeschwerde", "Datum": "08.02.2014" },
      { "Ereignis": "Befangenheitsbeschluss", "Datum": "06.03.2014", "Beschluss": "BSG 3-14-H A Befangenheit.pdf" }
     ],
     "Urteil": "BSG 3-14-H A.pdf",

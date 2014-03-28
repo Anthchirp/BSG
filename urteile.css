@@ -17,6 +17,7 @@ tr.bl td:first-child { padding-left: 0.5em; }
 .extrainfo .extrainfosup { position: absolute; border: 1px solid #000; padding: 1em; background-color: #FFB; display: none; min-width: 25em; z-index: 1; }
 .extrainfo:hover { border-color: #000; background-color: #FFB; }
 .extrainfo:hover .extrainfosup { display: block; }
+.extrainfosup p { margin: 0; }
 
 tbody.highlight { background-color: #FFB; }
 tbody .anchor { position: relative; left: -24px; height: 0; margin: 0; padding: 0; opacity: 0; cursor: pointer; }

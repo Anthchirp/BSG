@@ -197,6 +197,20 @@
     "Urteil": "BSG 3-14-H A.pdf",
     "Ergebnis": "Beschwerde abgewiesen",
     "Zusammenfassung": "Der Beschwerdef&uuml;hrer hatte gegen eine Gliederungsordnungsma&szlig;nahme geklagt, von der er betroffen war. Das Landesschiedsgericht hatte die Klage wegen Verfristung abgewiesen. Das Bundesschiedsgericht best&auml;tigte die Entscheidung des Landesschiedsgerichtes. W&auml;hrend dem Verfahren gab es einen Beschluss zu einem Antrag auf Feststellung der Besorgnis der Befangenheit eines Richters."
+   },
+   {
+    "Aktenzeichen": "BSG 10/14-H A",
+    "Anrufung": "12.03.2014",
+    "Erledigung": "27.03.2014",
+    "Historie": [
+     { "Ereignis": "Anrufung Erstinstanz", "Datum": "02.02.2013" },
+     { "Ereignis": "Er&ouml;ffnungsverz&ouml;gerungsbeschwerde", "Datum": "12.03.2014" },
+     { "Ereignis": "Zustellung Nichter&ouml;ffnungsbechluss durch das LSG", "Datum": "19.03.2014" }
+     { "Ereignis": "Abweisung wegen Erledigung", "Datum": "27.03.2014" }
+    ],
+    "Urteil": "BSG 10-14-H A.pdf",
+    "Ergebnis": "Beschwerde abgewiesen",
+    "Zusammenfassung": "Die Beschwerdeführerin wandte sich wegen einer Verfahrenseröffnungsverzögerung an das BSG. Auf Nachfrage an das zuständige LSG stellte sich heraus, dass die Eröffnung abgelehnt worden war. Das LSG hatte der Beschwerdeführerin allerdings den Beschluss noch nicht zugestellt gehabt. Das LSG holte dies nach, die Beschwerde war dadurch erledigt."
    }
   ]
  }

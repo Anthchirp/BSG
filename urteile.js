@@ -127,8 +127,8 @@ function urteilsliste(htmlelement, sginfo, baseurl) {
   tr.appendChild(th);
   t.appendChild(tr);
 
-  urteile = sginfo[bsg].Urteile;
-  if (urteile.length == 0) {
+  urteilsliste = sginfo[bsg].Urteile;
+  if (urteilsliste.length == 0) {
    var tr = document.createElement('tr');
    tr.className="bl";
    var td = document.createElement('td');
@@ -146,43 +146,43 @@ function urteilsliste(htmlelement, sginfo, baseurl) {
    t.appendChild(tr);
   }
 
-  for(var i = 0; i < urteile.length; i++){
+  for(var i = 0; i < urteilsliste.length; i++){
    var tb = document.createElement('tbody');
    tb.className = "highlightable";
    var tr = document.createElement('tr');
    tr.className = "az";
 
    var td = document.createElement('td');
-   td.appendChild(setAnchor(urteile[i].Aktenzeichen.hashCode(), baseurl));
-   if (typeof urteile[i].Urteil != 'undefined') {
+   td.appendChild(setAnchor(urteilsliste[i].Aktenzeichen.hashCode(), baseurl));
+   if (typeof urteilsliste[i].Urteil != 'undefined') {
     var a = document.createElement('a');
-    a.innerHTML = urteile[i].Aktenzeichen;
-    a.href = baseurl + urteile[i].Urteil;
+    a.innerHTML = urteilsliste[i].Aktenzeichen;
+    a.href = baseurl + urteilsliste[i].Urteil;
     td.appendChild(a);
    } else {
-    td.appendChild(document.createTextNode(urteile[i].Aktenzeichen));
+    td.appendChild(document.createTextNode(urteilsliste[i].Aktenzeichen));
    }
 
    td.rowSpan=2;
    tr.appendChild(td);
    var td = document.createElement('td');
-   td.appendChild(document.createTextNode(urteile[i].Anrufung));
-   if (typeof urteile[i].Historie != 'undefined') {
+   td.appendChild(document.createTextNode(urteilsliste[i].Anrufung));
+   if (typeof urteilsliste[i].Historie != 'undefined') {
     var plus = document.createElement('span');
     plus.className = 'extrainfo';
     plus.appendChild(document.createTextNode('+'));
     var d = document.createElement('div');
     d.className = 'extrainfosup';
-    for(var h = 0; h < urteile[i].Historie.length; h++){
+    for(var h = 0; h < urteilsliste[i].Historie.length; h++){
      var p = document.createElement('p');
-     if(typeof urteile[i].Historie[h].Beschluss != 'undefined') {
-      p.appendChild(document.createTextNode(urteile[i].Historie[h].Datum + ": "));
+     if(typeof urteilsliste[i].Historie[h].Beschluss != 'undefined') {
+      p.appendChild(document.createTextNode(urteilsliste[i].Historie[h].Datum + ": "));
       var a = document.createElement('a');
-      a.href = baseurl + urteile[i].Historie[h].Beschluss;
-      a.innerHTML = urteile[i].Historie[h].Ereignis;
+      a.href = baseurl + urteilsliste[i].Historie[h].Beschluss;
+      a.innerHTML = urteilsliste[i].Historie[h].Ereignis;
       p.appendChild(a);
      } else {
-      p.innerHTML = urteile[i].Historie[h].Datum + ": " + urteile[i].Historie[h].Ereignis;
+      p.innerHTML = urteilsliste[i].Historie[h].Datum + ": " + urteilsliste[i].Historie[h].Ereignis;
      }
      d.appendChild(p);
     }
@@ -191,12 +191,12 @@ function urteilsliste(htmlelement, sginfo, baseurl) {
    }
    tr.appendChild(td);
    var td = document.createElement('td');
-   if (typeof urteile[i].Erledigung != 'undefined')
-    td.appendChild(document.createTextNode(urteile[i].Erledigung));
+   if (typeof urteilsliste[i].Erledigung != 'undefined')
+    td.appendChild(document.createTextNode(urteilsliste[i].Erledigung));
    tr.appendChild(td);
    var td = document.createElement('td');
-   if (typeof urteile[i].Ergebnis != 'undefined')
-    td.innerHTML = urteile[i].Ergebnis;
+   if (typeof urteilsliste[i].Ergebnis != 'undefined')
+    td.innerHTML = urteilsliste[i].Ergebnis;
    tr.appendChild(td);
 
    tb.appendChild(tr);
@@ -204,7 +204,7 @@ function urteilsliste(htmlelement, sginfo, baseurl) {
    var tr = document.createElement('tr');
    tr.className = "ds";
    var td = document.createElement('td');
-   td.innerHTML = urteile[i].Zusammenfassung;
+   td.innerHTML = urteilsliste[i].Zusammenfassung;
    td.colSpan = 3;
    tr.appendChild(td);
    tb.appendChild(tr);

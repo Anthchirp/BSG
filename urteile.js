@@ -10,6 +10,15 @@ String.prototype.hashCode = function() {
  return Math.abs(hash);
 }
 
+var absoluteURL = new RegExp('^(?:[a-z]+:)?//', 'i');
+function qualifyURL(base, url) {
+ if (absoluteURL.test(url)) {
+  return url;
+ } else {
+  return base + url; // could do better...
+ }
+}
+
 function setAnchor(hash, baseurl) {
  var d = document.createElement('div');
  var img = document.createElement('img');
@@ -157,7 +166,7 @@ function urteilsliste(htmlelement, sginfo, baseurl) {
    if (typeof urteilsliste[i].Urteil != 'undefined') {
     var a = document.createElement('a');
     a.innerHTML = urteilsliste[i].Aktenzeichen;
-    a.href = baseurl + urteilsliste[i].Urteil;
+    a.href = qualifyURL(baseurl, urteilsliste[i].Urteil);
     td.appendChild(a);
    } else {
     td.appendChild(document.createTextNode(urteilsliste[i].Aktenzeichen));
@@ -178,7 +187,7 @@ function urteilsliste(htmlelement, sginfo, baseurl) {
      if(typeof urteilsliste[i].Historie[h].Beschluss != 'undefined') {
       p.appendChild(document.createTextNode(urteilsliste[i].Historie[h].Datum + ": "));
       var a = document.createElement('a');
-      a.href = baseurl + urteilsliste[i].Historie[h].Beschluss;
+      a.href = qualifyURL(baseurl, urteilsliste[i].Historie[h].Beschluss);
       a.innerHTML = urteilsliste[i].Historie[h].Ereignis;
       p.appendChild(a);
      } else {

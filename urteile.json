@@ -4,10 +4,10 @@
   "Zeitraum": "2007/08",
   "Wahl": "20. Mai 2007",
   "Richter": [
-   { "Name": "Ingo Ponickau", "Vorsitz": 1, "Link": "http://wiki.piratenpartei.de/Benutzer:Pdg" },
+   { "Name": "Ingo Ponickau", "Vorsitz": 1, "Link": "https://wiki.piratenpartei.de/Benutzer:Pdg" },
    { "Name": "K.-S. Mo" },
-   { "Name": "Michael Herbst", "Link": "http://wiki.piratenpartei.de/Benutzer:Cyzen" },
-   { "Name": "Leo Wandersleb", "Ersatz": 1, "Link": "http://wiki.piratenpartei.de/Benutzer:Lw" } ],
+   { "Name": "Michael Herbst", "Link": "https://wiki.piratenpartei.de/Benutzer:Cyzen" },
+   { "Name": "Leo Wandersleb", "Ersatz": 1, "Link": "https://wiki.piratenpartei.de/Benutzer:Lw" } ],
   "Urteile": []
  },
 
@@ -16,14 +16,14 @@
   "Zeitraum": "2008/09",
   "Wahl": "18. Mai 2008",
   "Richter": [
-   { "Name": "Ingo Ponickau", "Vorsitz": 1, "Link": "http://wiki.piratenpartei.de/Benutzer:Pdg" },
-   { "Name": "Wilhelm Gasser", "Link": "http://wiki.piratenpartei.de/Benutzer:Icho40" },
-   { "Name": "Sebastian Mohr", "Link": "http://wiki.piratenpartei.de/Benutzer:Sebi" },
-   { "Name": "Carsten Neumann", "Link": "http://wiki.piratenpartei.de/Benutzer:Rambodieschen" },
-   { "Name": "Andreas Romeyke", "Link": "http://wiki.piratenpartei.de/Benutzer:AndreasRomeyke" },
-   { "Name": "Harald Kibbat", "Ersatz": 1, "Link": "http://wiki.piratenpartei.de/Benutzer:MainBrain" },
-   { "Name": "Bodo Thiesen", "Ersatz": 1, "Link": "http://wiki.piratenpartei.de/Benutzer:Bodo_Thiesen" } ],
-  "Abschlussbericht": "http://wiki.piratenpartei.de/Schiedsgerichte/Berichte",
+   { "Name": "Ingo Ponickau", "Vorsitz": 1, "Link": "https://wiki.piratenpartei.de/Benutzer:Pdg" },
+   { "Name": "Wilhelm Gasser", "Link": "https://wiki.piratenpartei.de/Benutzer:Icho40" },
+   { "Name": "Sebastian Mohr", "Link": "https://wiki.piratenpartei.de/Benutzer:Sebi" },
+   { "Name": "Carsten Neumann", "Link": "https://wiki.piratenpartei.de/Benutzer:Rambodieschen" },
+   { "Name": "Andreas Romeyke", "Link": "https://wiki.piratenpartei.de/Benutzer:AndreasRomeyke" },
+   { "Name": "Harald Kibbat", "Ersatz": 1, "Link": "https://wiki.piratenpartei.de/Benutzer:MainBrain" },
+   { "Name": "Bodo Thiesen", "Ersatz": 1, "Link": "https://wiki.piratenpartei.de/Benutzer:Bodo_Thiesen" } ],
+  "Abschlussbericht": "https://wiki.piratenpartei.de/Schiedsgerichte/Berichte",
   "Urteile": [
    {
     "Aktenzeichen": "BSG 2008-05-18-1",
@@ -39,7 +39,7 @@
     "Erledigung": "10.05.2009",
     "Urteil": "BSG 2009-03-18.pdf",
     "Ergebnis": "Klage teilweise stattgegeben",
-    "Zusammenfassung": "Die Klage richtete sich auf Feststellung der Amtsdauer des Bundesvorstandes. Das Gericht stellte fest, dass die Amtszeit des Vorstandes auf 365 Tage begrenzt war. (Der entsprechende Satzungsabschnitt wurde auf dem folgenden BPT 2009.1 <a href=\"http://wiki.piratenpartei.de/Bundesparteitag_2009.1/Satzungs%C3%A4nderungsantr%C3%A4ge/S/SA1\">ge&auml;ndert</a>)"
+    "Zusammenfassung": "Die Klage richtete sich auf Feststellung der Amtsdauer des Bundesvorstandes. Das Gericht stellte fest, dass die Amtszeit des Vorstandes auf 365 Tage begrenzt war. (Der entsprechende Satzungsabschnitt wurde auf dem folgenden BPT 2009.1 <a href=\"https://wiki.piratenpartei.de/Bundesparteitag_2009.1/Satzungs%C3%A4nderungsantr%C3%A4ge/S/SA1\">ge&auml;ndert</a>)"
    }
   ]
  },
@@ -49,14 +49,14 @@
   "Zeitraum": "2009/10",
   "Wahl": "05. Juli 2009",
   "Richter": [
-   { "Name": "Andreas Romeyke", "Vorsitz": 1, "Link": "http://wiki.piratenpartei.de/Benutzer:AndreasRomeyke" },
-   { "Name": "Carsten Neumann", "Link": "http://wiki.piratenpartei.de/Benutzer:Rambodieschen" },
-   { "Name": "Hans-Heinrich Piepgras", "Link": "http://wiki.piratenpartei.de/Benutzer:Darkstar" },
-   { "Name": "Harald Kibbat", "Link": "http://wiki.piratenpartei.de/Benutzer:MainBrain" },
-   { "Name": "Jens M&uuml;ller", "Link": "http://wiki.piratenpartei.de/Benutzer:Tessarakt" },
-   { "Name": "Sebastian Mohr", "Ersatz": 1, "Link": "http://wiki.piratenpartei.de/Benutzer:Sebi" },
-   { "Name": "Bodo Thiesen", "Ersatz": 1, "Link": "http://wiki.piratenpartei.de/Benutzer:Bodo_Thiesen" } ],
-  "Abschlussbericht": "http://wiki.piratenpartei.de/Bundesparteitag_2010.1/Protokoll#Bericht_des_Schiedsgerichts",
+   { "Name": "Andreas Romeyke", "Vorsitz": 1, "Link": "https://wiki.piratenpartei.de/Benutzer:AndreasRomeyke" },
+   { "Name": "Carsten Neumann", "Link": "https://wiki.piratenpartei.de/Benutzer:Rambodieschen" },
+   { "Name": "Hans-Heinrich Piepgras", "Link": "https://wiki.piratenpartei.de/Benutzer:Darkstar" },
+   { "Name": "Harald Kibbat", "Link": "https://wiki.piratenpartei.de/Benutzer:MainBrain" },
+   { "Name": "Jens M&uuml;ller", "Link": "https://wiki.piratenpartei.de/Benutzer:Tessarakt" },
+   { "Name": "Sebastian Mohr", "Ersatz": 1, "Link": "https://wiki.piratenpartei.de/Benutzer:Sebi" },
+   { "Name": "Bodo Thiesen", "Ersatz": 1, "Link": "https://wiki.piratenpartei.de/Benutzer:Bodo_Thiesen" } ],
+  "Abschlussbericht": "https://wiki.piratenpartei.de/Bundesparteitag_2010.1/Protokoll#Bericht_des_Schiedsgerichts",
   "Urteile": [
    {
     "Aktenzeichen": "BSG 2009-08-02",
@@ -114,14 +114,14 @@
   "Zeitraum": "2010/11",
   "Wahl": "16. Mai 2010",
   "Richter": [
-   { "Name": "Stephan Urbach", "Vorsitz": 1, "Link": "http://wiki.piratenpartei.de/Benutzer:Tomate" },
-   { "Name": "Joachim Bokor", "Link": "http://wiki.piratenpartei.de/Benutzer:Puck.152" },
-   { "Name": "Andreas Romeyke", "Link": "http://wiki.piratenpartei.de/Benutzer:AndreasRomeyke" },
-   { "Name": "Hartmut Semken", "Link": "http://wiki.piratenpartei.de/Benutzer:Hase" },
-   { "Name": "Harald Kibbat", "Link": "http://wiki.piratenpartei.de/Benutzer:MainBrain" },
-   { "Name": "Sebastian Mohr", "Ersatz": 1, "Link": "http://wiki.piratenpartei.de/Benutzer:Sebi" },
+   { "Name": "Stephan Urbach", "Vorsitz": 1, "Link": "https://wiki.piratenpartei.de/Benutzer:Tomate" },
+   { "Name": "Joachim Bokor", "Link": "https://wiki.piratenpartei.de/Benutzer:Puck.152" },
+   { "Name": "Andreas Romeyke", "Link": "https://wiki.piratenpartei.de/Benutzer:AndreasRomeyke" },
+   { "Name": "Hartmut Semken", "Link": "https://wiki.piratenpartei.de/Benutzer:Hase" },
+   { "Name": "Harald Kibbat", "Link": "https://wiki.piratenpartei.de/Benutzer:MainBrain" },
+   { "Name": "Sebastian Mohr", "Ersatz": 1, "Link": "https://wiki.piratenpartei.de/Benutzer:Sebi" },
    { "Name": "C&eacute;dric Menge", "Ersatz": 1 } ],
-  "Abschlussbericht": "http://wiki.piratenpartei.de/Bundesparteitag_2011.1/Protokoll-2011-05-14#A20",
+  "Abschlussbericht": "https://wiki.piratenpartei.de/Bundesparteitag_2011.1/Protokoll-2011-05-14#A20",
   "Urteile": [
    {
     "Aktenzeichen": "BSG 2010-06-29<br/>BSG 2010-07-12",
@@ -129,7 +129,7 @@
     "Erledigung": "17.08.2010",
     "Urteil": "BSG 2010-06-29.pdf",
     "Ergebnis": "Klage abgewiesen",
-    "Zusammenfassung": "Klage gegen die Einf&uuml;hrung des Liquid Feedback-Verfahrens laut Beschluss Z013 des Bundesparteitags 2010.1. Zu diesem Fall gab das Bundesschiedsgericht eine <a href=\"http://wiki.piratenpartei.de/Schiedsgerichte/Archivurteile#AZ_BSG_2010-06-29_und_AZ_BSG_2010-07-12\">Bekanntmachung wegen versuchter Einflu&szlig;nahme von au&szlig;en</a> ab."
+    "Zusammenfassung": "Klage gegen die Einf&uuml;hrung des Liquid Feedback-Verfahrens laut Beschluss Z013 des Bundesparteitags 2010.1. Zu diesem Fall gab das Bundesschiedsgericht eine <a href=\"https://wiki.piratenpartei.de/Schiedsgerichte/Archivurteile#AZ_BSG_2010-06-29_und_AZ_BSG_2010-07-12\">Bekanntmachung wegen versuchter Einflu&szlig;nahme von au&szlig;en</a> ab."
    }
   ]
  },
@@ -140,12 +140,12 @@
   "Zeitraum": "2011/12",
   "Wahl": "14. Mai 2011",
   "Richter": [
-   { "Name": "Joachim Bokor", "Vorsitz": 1, "Link": "http://wiki.piratenpartei.de/Benutzer:Puck.152" },
-   { "Name": "Harald Kibbat", "Link": "http://wiki.piratenpartei.de/Benutzer:MainBrain" },
-   { "Name": "Claudia M. Schmidt", "Link": "http://wiki.piratenpartei.de/Benutzer:Claudia_M.Schmidt" },
-   { "Name": "Markus Gerstel", "Link": "http://wiki.piratenpartei.de/Benutzer:Anthem" },
-   { "Name": "Michael Ebner", "Link": "http://wiki.piratenpartei.de/Benutzer:Michael_Ebner" },
-   { "Name": "Georg von Boroviczeny", "Ersatz": 1, "Link": "http://wiki.piratenpartei.de/Benutzer:Georgberlin" },
+   { "Name": "Joachim Bokor", "Vorsitz": 1, "Link": "https://wiki.piratenpartei.de/Benutzer:Puck.152" },
+   { "Name": "Harald Kibbat", "Link": "https://wiki.piratenpartei.de/Benutzer:MainBrain" },
+   { "Name": "Claudia M. Schmidt", "Link": "https://wiki.piratenpartei.de/Benutzer:Claudia_M.Schmidt" },
+   { "Name": "Markus Gerstel", "Link": "https://wiki.piratenpartei.de/Benutzer:Anthem" },
+   { "Name": "Michael Ebner", "Link": "https://wiki.piratenpartei.de/Benutzer:Michael_Ebner" },
+   { "Name": "Georg von Boroviczeny", "Ersatz": 1, "Link": "https://wiki.piratenpartei.de/Benutzer:Georgberlin" },
    { "Name": "Thomas Herzog", "Ersatz": 1 } ],
   "Urteile": [
   ]
@@ -157,13 +157,13 @@
   "Zeitraum": "2012/13",
   "Wahl": "29. April 2012",
   "Richter": [
-   { "Name": "Markus Gerstel", "Vorsitz": 1, "Link": "http://wiki.piratenpartei.de/Benutzer:Anthem" },
-   { "Name": "Joachim Bokor", "Link": "http://wiki.piratenpartei.de/Benutzer:Puck.152" },
-   { "Name": "Claudia M. Schmidt", "Link": "http://wiki.piratenpartei.de/Benutzer:Claudia_M.Schmidt" },
-   { "Name": "Markus Kompa", "Link": "http://wiki.piratenpartei.de/Benutzer:Markus_Kompa" },
-   { "Name": "Benjamin Siggel", "Link": "http://wiki.piratenpartei.de/Benutzer:Crackpille" },
-   { "Name": "Katrin Kirchert", "Ersatz": 1, "Link": "http://wiki.piratenpartei.de/Benutzer:Deanna" },
-   { "Name": "Georg von Boroviczeny", "Ersatz": 1, "Link": "http://wiki.piratenpartei.de/Benutzer:Georgberlin" } ],
+   { "Name": "Markus Gerstel", "Vorsitz": 1, "Link": "https://wiki.piratenpartei.de/Benutzer:Anthem" },
+   { "Name": "Joachim Bokor", "Link": "https://wiki.piratenpartei.de/Benutzer:Puck.152" },
+   { "Name": "Claudia M. Schmidt", "Link": "https://wiki.piratenpartei.de/Benutzer:Claudia_M.Schmidt" },
+   { "Name": "Markus Kompa", "Link": "https://wiki.piratenpartei.de/Benutzer:Markus_Kompa" },
+   { "Name": "Benjamin Siggel", "Link": "https://wiki.piratenpartei.de/Benutzer:Crackpille" },
+   { "Name": "Katrin Kirchert", "Ersatz": 1, "Link": "https://wiki.piratenpartei.de/Benutzer:Deanna" },
+   { "Name": "Georg von Boroviczeny", "Ersatz": 1, "Link": "https://wiki.piratenpartei.de/Benutzer:Georgberlin" } ],
   "Urteile": [
   ]
  },
@@ -174,14 +174,14 @@
   "Zeitraum": "2013/15",
   "Wahl": "01. Dezember 2013",
   "Richter": [
-   { "Name": "Markus Gerstel", "Vorsitz": 1, "Link": "http://wiki.piratenpartei.de/Benutzer:Anthem" },
-   { "Name": "Claudia M. Schmidt", "Link": "http://wiki.piratenpartei.de/Benutzer:Claudia_M.Schmidt" },
-   { "Name": "Daniela Berger", "Link": "http://wiki.piratenpartei.de/Benutzer:DanielaKay" },
-   { "Name": "Florian Zumkeller-Quast", "Link": "http://wiki.piratenpartei.de/Benutzer:Branleb" },
-   { "Name": "Benjamin Siggel", "Link": "http://wiki.piratenpartei.de/Benutzer:Crackpille" },
-   { "Name": "Georg von Boroviczeny", "Link": "http://wiki.piratenpartei.de/Benutzer:Georgberlin" },
-   { "Name": "Lara L&auml;mke", "Ersatz": 1, "Link": "http://wiki.piratenpartei.de/Benutzer:Sofakante" },
-   { "Name": "Harald Kibbat", "Ersatz": 1, "Link": "http://wiki.piratenpartei.de/Benutzer:MainBrain" } ],
+   { "Name": "Markus Gerstel", "Vorsitz": 1, "Link": "https://wiki.piratenpartei.de/Benutzer:Anthem" },
+   { "Name": "Claudia M. Schmidt", "Link": "https://wiki.piratenpartei.de/Benutzer:Claudia_M.Schmidt" },
+   { "Name": "Daniela Berger", "Link": "https://wiki.piratenpartei.de/Benutzer:DanielaKay" },
+   { "Name": "Florian Zumkeller-Quast", "Link": "https://wiki.piratenpartei.de/Benutzer:Branleb" },
+   { "Name": "Benjamin Siggel", "Link": "https://wiki.piratenpartei.de/Benutzer:Crackpille" },
+   { "Name": "Georg von Boroviczeny", "Link": "https://wiki.piratenpartei.de/Benutzer:Georgberlin" },
+   { "Name": "Lara L&auml;mke", "Ersatz": 1, "Link": "https://wiki.piratenpartei.de/Benutzer:Sofakante" },
+   { "Name": "Harald Kibbat", "Ersatz": 1, "Link": "https://wiki.piratenpartei.de/Benutzer:MainBrain" } ],
   "Urteile": [
    {
     "Aktenzeichen": "BSG 2013-11-15",
@@ -339,7 +339,7 @@
      { "Ereignis": "Anrufung Erstinstanz", "Datum": "19.07.2012" },
      { "Ereignis": "Er&ouml;ffnung Erstinstanz", "Datum": "30.07.2012" },
      { "Ereignis": "Verfahrensverz&ouml;gerungsbeschwerde", "Datum": "21.07.2013" },
-     { "Ereignis": "Verfahrensverweisung BSG 2013-07-21", "Datum": "22.08.2013", "Beschluss": "http://wiki.piratenpartei.de/Bundesschiedsgericht#BSG_2013-07-21" },
+     { "Ereignis": "Verfahrensverweisung BSG 2013-07-21", "Datum": "22.08.2013", "Beschluss": "https://wiki.piratenpartei.de/Bundesschiedsgericht#BSG_2013-07-21" },
      { "Ereignis": "Urteil Erstinstanz LSG Bbg 13/1", "Datum": "20.02.2014", "Beschluss": "https://wiki.piratenbrandenburg.de/images/2/22/LSG-Bbg-13-1_Urteil_2014_02_20.pdf" }
     ],
     "Urteil": "BSG 22-14-H S.pdf",

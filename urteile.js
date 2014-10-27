@@ -109,6 +109,9 @@ function urteilsliste(htmlelement, sginfo, baseurl) {
   p.appendChild(document.createElement('br'));
   var sm = document.createElement('small');
   sm.innerHTML = 'gew&auml;hlt am ' + sginfo[bsg].Wahl;
+  if (sginfo[bsg].Urteile.length > 0) {
+   sm.appendChild(document.createTextNode(", "+sginfo[bsg].Urteile.length+" Verfahren"));
+  }
   if (typeof sginfo[bsg].Abschlussbericht != 'undefined') {
    sm.appendChild(document.createTextNode(", "));
    var a = document.createElement('a');

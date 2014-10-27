@@ -123,14 +123,66 @@
    { "Name": "C&eacute;dric Menge", "Ersatz": 1 } ],
   "Abschlussbericht": "https://wiki.piratenpartei.de/Bundesparteitag_2011.1/Protokoll-2011-05-14#A20",
   "Urteile": [
-   {
-    "Aktenzeichen": "BSG 2010-06-29<br/>BSG 2010-07-12",
-    "Anrufung": "29.06.2010",
-    "Erledigung": "17.08.2010",
-    "Urteil": "BSG 2010-06-29.pdf",
-    "Ergebnis": "Klage abgewiesen",
-    "Zusammenfassung": "Klage gegen die Einf&uuml;hrung des Liquid Feedback-Verfahrens laut Beschluss Z013 des Bundesparteitags 2010.1. Zu diesem Fall gab das Bundesschiedsgericht eine <a href=\"https://wiki.piratenpartei.de/Schiedsgerichte/Archivurteile#AZ_BSG_2010-06-29_und_AZ_BSG_2010-07-12\">Bekanntmachung wegen versuchter Einflu&szlig;nahme von au&szlig;en</a> ab."
-   }
+    {
+	"Aktenzeichen": "BSG 2010-06-29<br \/>BSG 2010-07-12",
+	"Anker": "BSG 2010-06-29",
+	"Anrufung": "29.06.2010",
+	"Erledigung": "17.08.2010",
+	"Urteil": "BSG 2010-06-29.pdf",
+	"Ergebnis": "Klage abgewiesen",
+ 	"Zusammenfassung": "Klage gegen die Einf&uuml;hrung des Liquid Feedback-Verfahrens laut Beschluss Z013 des Bundesparteitags 2010.1. Zu diesem Fall gab das Bundesschiedsgericht eine <a href=\"http://wiki.piratenpartei.de/Schiedsgerichte/Archivurteile#AZ_BSG_2010-06-29_und_AZ_BSG_2010-07-12\">Bekanntmachung wegen versuchter Einflu&szlig;nahme von au&szlig;en</a> ab."
+    },
+    {
+        "Aktenzeichen": "BSG 2010-07-30",
+        "Anrufung": "27.04.2010",
+        "Berufung": "30.07.2010",
+        "Erledigung": "09.11.2010",
+        "Ergebnis": "Klage zur&uuml;ckgezogen",
+        "Zusammenfassung": "Die Klage zielte auf die Anfechtung von Bezirksvorstandswahlen ab, da die Einladung formal ung&uuml;ltig gewesen sei. Weiter soll gegen einen Piraten der ein Parteitagsamt bekleidete ein Parteiausschlussverfahren er&ouml;ffnet werden. Der Kl&auml;ger ist zur m&uuml;ndlichen Versammlung unentschuldigt nicht erschienen, und war f&uuml;r das Gericht nicht mehr erreichbar. Das Gericht betrachtete daher die Kl&auml;ge als zur&uuml;ckgezogen."
+    },
+    {
+        "Aktenzeichen": "BSG 2010-09-12",
+        "Anrufung": "12.09.2010",
+        "Erledigung": "31.05.2011",
+        "Ergebnis": "Anrufung zur&uuml;ckgezogen"
+    },
+    {
+        "Aktenzeichen": "BSG 2010-09-25",
+        "Anrufung": "25.09.2010",
+        "Erledigung": "15.11.2010",
+        "Ergebnis": "Klage abgewiesen",
+        "Zusammenfassung": "Die zwei zusammengefassten Klagen richteten sich gegen die Sperrung zweier Accounts in der Bundesinstanz von Liquid Feedback. Das Gericht stellt fest, dass die Sperrungen als Folge eines Versto&szlig;es gegen die Nutzungsbedingungen rechtens sind."
+    },
+    {
+        "Aktenzeichen": "BSG 2010-10-11",
+        "Anrufung": "11.10.2010",
+        "Erledigung": "",
+        "Ergebnis": "",
+        "Zusammenfassung": ""
+    },
+    {
+        "Aktenzeichen": "BSG 2010-10-26",
+        "Anrufung": "26.10.2010",
+        "Erledigung": "09.11.2010",
+        "Urteil": "_Datei_BSG_2010-10.26.pdf",
+        "Ergebnis": "Klage teilweise stattgegeben",
+        "Zusammenfassung": "Die Klage richtete sich gegen die Behandlung von Satzungs&auml;nderungsantr&auml;gen auf dem Bundesparteitag 2010.2 Chemnitz. Das Gericht stellt fest, dass nach der Formulierung der Einladung eine Behandlung von Satzungs&auml;nderungsantr&auml;gen unzul&auml;ssig ist."
+    },
+    {
+        "Aktenzeichen": "BSG 2010-12-17-2",
+        "Anrufung": "17.12.2010",
+        "Erledigung": "02.03.2011",
+        "Urteil": "_Datei_BSG_2010-12-17-2.pdf",
+        "Ergebnis": "Klage stattgegeben",
+        "Zusammenfassung": "Die Klage richtete sich gegen den Beschluss des Bundesvorstandes die Rechte eines Mitglieds bis zum Abschluss eines anh&auml;ngigen Verfahrens zu suspendieren. Das Gericht stellt fest, dass die f&uuml;r diesen Beschluss nach Satzung erforderliche Dringlichkeit nicht gegeben war. Die Ordnungsma&szlig;nahme war daher aufzuheben."
+    },
+    {
+        "Aktenzeichen": "BSG 2011-04-15",
+        "Anrufung": "15.04.2011",
+        "Erledigung": "13.05.2011",
+        "Ergebnis": "Anrufung abgewiesen",
+        "Zusammenfassung": "Die Klage richtete sich gegen eine von einem Landesvorstand verh&auml;ngte Ordnungsma&szlig;nahme. Das Bundesschiedsgericht stellte fest, dass es auch dann nicht erstinstanzlich zust&auml;ndig ist, wenn der Kl&auml;ger ein befangenes oder handlungsunf&auml;higes Landesschiedsgericht vermutet. Diese Feststellung muss grunds&auml;tzlich das entsprechende Gericht selbst treffen."
+    }
   ]
  },
 
@@ -148,6 +200,159 @@
    { "Name": "Georg von Boroviczeny", "Ersatz": 1, "Link": "https://wiki.piratenpartei.de/Benutzer:Georgberlin" },
    { "Name": "Thomas Herzog", "Ersatz": 1 } ],
   "Urteile": [
+    {
+        "Aktenzeichen": "BSG 2011-05-08",
+        "Anrufung": "01.08.2010",
+        "Berufung": "08.05.2011",
+        "Erledigung": "08.06.2011",
+        "Urteil": "_Datei_BSG_2011-05-08.pdf",
+        "Ergebnis": "Anrufung abgewiesen",
+        "Zusammenfassung": "Der Kl&auml;ger war zum Zeitpunkt der Klageerhebung nicht mehr Mitglied der Partei. Die Klage betraf auch nicht den Mitgliedschaftsstatus, daher stellte das Gericht fest, dass es mangels Schiedsvereinbarung nicht zust&auml;ndig ist."
+    },
+    {
+        "Aktenzeichen": "BSG 2011-04-11-3",
+        "Anrufung": "11.04.2011",
+        "Erledigung": "20.06.2011",
+        "Urteil": "_Datei_BSG_2011-04-11-3.pdf",
+        "Ergebnis": "Anrufung abgewiesen",
+        "Zusammenfassung": "Der Kl&auml;ger beantragt die Unt&auml;tigkeit des Bundesvorstandes der Amtsperiode 2010\/11 festzustellen, und beantragt den Parteiausschluss des zum Zeitpunkt der Klage amtierenden Bundesvorstandsvorsitzenden. Das Gericht stellte fest, dass die Klage teilweise zul&auml;ssig aber insgesamt unbegr&uuml;ndet war, und zeigt ab Seite 3 unten (Antrag 3) die grunds&auml;tzlichen Voraussetzungen f&uuml;r ein Parteiausschlussverfahren auf."
+    },
+    {
+        "Aktenzeichen": "BSG 2011-04-11-2",
+        "Anrufung": "11.04.2011",
+        "Erledigung": "25.07.2011",
+        "Urteil": "_Datei_BSG_2011-04-11-2.pdf",
+        "Ergebnis": "Klage abgewiesen",
+        "Zusammenfassung": "Der Kl&auml;ger beantragt festzustellen, dass der Bundesvorstand zum Zeitpunkt der Klageeinreichung handlungsunf&auml;hig war. Das Gericht stellte fest, dass eine Handlungsunf&auml;higkeit zu keinem Zeitpunkt vorlag."
+    },
+    {
+        "Aktenzeichen": "BSG 2011-04-11-1",
+        "Anrufung": "11.04.2011",
+        "Erledigung": "25.07.2011",
+        "Urteil": "_Datei_BSG_2011-04-11-1.pdf",
+        "Ergebnis": "Klage abgewiesen",
+        "Zusammenfassung": "Der Kl&auml;ger beantragt festzustellen, dass die Gesch&auml;ftsordnung des Bundesvorstands betreffend der Einschr&auml;nkung des Antragsrechts auf Ordnungsma&szlig;nahmen mit der Bundessatzung unvereinbar ist. Das Gericht stellte fest, dass die Ausgestaltung der Gesch&auml;ftsordnung mit der Satzung, dem Vereins- und Parteienrecht vereinbar ist."
+    },
+    {
+        "Aktenzeichen": "BSG 2011-08-23",
+        "Anrufung": "23.08.2011",
+        "Erledigung": "05.09.2011",
+        "Urteil": "_Datei_BSG_2011-08-23.pdf",
+        "Ergebnis": "Beschwerde stattgegeben.",
+        "Zusammenfassung": "Der Beschwerdef&uuml;hrer beantragt zu einem an einem Landesschiedsgericht anh&auml;ngigen Verfahren die ungeb&uuml;hrliche Verfahrensverz&ouml;gerung nach &sect;12 Abs 2 SGO festzustellen. Innerhalb von sechs Monaten gab es dort f&uuml;r ihn keinen nachvollziehbaren Verfahrensfortgang. Das Gericht stellte fest, dass eine Verfahrensverz&ouml;gerung vorliegt, gab der Beschwerde statt und &uuml;bernahm das Verfahren."
+    },
+    {
+        "Aktenzeichen": "BSG 2010-09-04",
+        "Anrufung": "04.09.2010",
+        "Erledigung": "05.09.2011",
+        "Urteil": "_Datei_BSG_2010-09-04.pdf",
+        "Ergebnis": "Klage teilweise stattgegeben.",
+        "Zusammenfassung": "Der Kl&auml;ger beantragt die Aufhebung zweier Ordnungsma&szlig;nahmen, die Wiederherstellung seiner E-Mail-Adresse, den Ausspruch einer Ordnungsma&szlig;nahme gegen Landesvorstandsmitglieder sowie deren R&uuml;ge wegen Einmischung in Schiedsgerichtsangelegenheiten. Das Gericht hob eine Ordnungsma&szlig;nahme auf, da deren Begr&uuml;ndung f&uuml;r das Gericht nicht nachvollziehbar war. Ordnungsma&szlig;nahmen m&uuml;ssen mit einer Begr&uuml;ndung ausgesprochen werden, die es dem Mitglied und Dritten erlaubt nachzuvollziehen, welches Verhalten genau ger&uuml;gt wird. Die weiteren Antr&auml;ge wurden abgelehnt."
+    },
+    {
+        "Aktenzeichen": "BSG 2011-09-05-1",
+        "Anrufung": "22.08.2011",
+        "Berufung": "05.09.2011",
+        "Erledigung": "12.09.2011",
+        "Urteil": "_Datei_BSG_2011-09-05-1.pdf",
+        "Ergebnis": "Berufung zur&uuml;ckgewiesen",
+        "Zusammenfassung": "Der Kl&auml;ger beantragt die Verhinderung eines Kreisparteitages ausserhalb des T&auml;tigkeitsgebietes per einstweiliger Anordnung. Eine eine einstweilige Anordnung rechtfertigende Unzumutbarkeit konnte durch das Gericht nicht festgestellt werden, der Tagungsort ausserhalb des Kreises ist hier zul&auml;ssig."
+    },
+    {
+        "Aktenzeichen": "BSG 2010-12-20",
+        "Anrufung": "20.12.2010",
+        "Erledigung": "19.09.2011",
+        "Urteil": "_Datei_BSG_2010-12-20.pdf",
+        "Ergebnis": "Klage abgewiesen",
+        "Zusammenfassung": "Der Kl&auml;ger ficht die Beschl&uuml;sse auf dem BPT 2010.2 Chemnitz zu Positionspapieren, Programmstruktur und Redaktionskommission an. Das Bundesschiedsgericht stellt fest, dass die Beschl&uuml;sse zu Positionspapieren solange zul&auml;ssig sind, wie die Trennung Positionspapier und Programm gewahrt bleibt. Zur Achtung der Trennung sind alle Piraten, besonders aber die Arbeitsgruppen und Organe der Partei verantwortlich, im Zweifel muss diese Trennung durch Vorst&auml;nde durchgesetzt werden (s. Seite 5 Urteilstext). Die Beschl&uuml;sse zu Programmstruktur und Redaktionskommission sind zul&auml;ssig, letztere hat keine Programm&auml;nderungskompetenz."
+    },
+    {
+        "Aktenzeichen": "BSG 2011-09-05-2",
+        "Anrufung": "26.02.2011",
+        "\u00dcbernahme": "05.09.2011",
+        "Erledigung": "26.09.2011",
+        "Urteil": "_Datei_BSG_2011-09-05-2.pdf",
+        "Ergebnis": "Klage teilweise stattgegeben",
+        "Zusammenfassung": "Der Kl&auml;ger beantragt die Aufhebung einer Ordnungsma&szlig;nahme. Das Bundesschiedsgericht stellt fest, dass die Ordnungsma&szlig;nahme zwar insgesamt zul&auml;ssig, aber eine zweij&auml;hrige Aberkennung der F&auml;higkeit Partei&auml;mter zu bekleiden im vorliegenden Fall unangemessen ist. In Folge wird die Ordnungsma&szlig;nahme auf ein Jahr verk&uuml;rzt."
+    },
+    {
+        "Aktenzeichen": "BSG 2012-02-22",
+        "Anrufung": "22.02.2012",
+        "Erledigung": "23.02.2012",
+        "Urteil": "_Datei_BSG_2012-02-22.pdf",
+        "Ergebnis": "Antr&auml;ge abgelehnt",
+        "Zusammenfassung": "Das Landesschiedsgericht legte dem Bundesschiedsgericht Antr&auml;ge auf Befangenheit zur Entscheidung vor, da sie diese wegen ihrer Minimalbesetzung nicht selbst entscheiden konnten. Die Antr&auml;ge wurden durch Beschluss abgelehnt, das Verfahren zur&uuml;ckverwiesen."
+    },
+    {
+        "Aktenzeichen": "BSG 2011-12-07",
+        "Anrufung": "09.09.2011 \/ 12.10.2011",
+        "Berufung": "07.12.2011",
+        "Erledigung": "19.03.2012",
+        "Urteil": "_Datei_BSG_2011-12-07.pdf",
+        "Ergebnis": "Berufung zur&uuml;ckgewiesen",
+        "Zusammenfassung": "Der Kl&auml;ger legt Berufung gegen ein Urteil eines Landesschiedsgerichtes ein. Dieses hatte seine Antr&auml;ge auf Erteilung von Ordnungsma&szlig;nahmen und einen Antrag auf Parteiausschluss abgelehnt. Das Bundesschiedsgericht stellt fest, dass Ordnungsma&szlig;nahmen nicht vor Schiedsgerichten beantragt werden k&ouml;nnen, Parteiausschlussverfahren nur von den in den Satzungen genannten Organen initiiert werden k&ouml;nnen. Offensichtlich unzul&auml;ssige Anrufungen k&ouml;nnen ohne Er&ouml;ffnung abgewiesen werden."
+    },
+    {
+        "Aktenzeichen": "BSG 2012-02-28",
+        "Anrufung": "28.02.2012",
+        "Erledigung": "19.03.2012",
+        "Urteil": "_Datei_BSG_2012-02-28.pdf",
+        "Ergebnis": "Anrufung abgewiesen",
+        "Zusammenfassung": "Der Antragsteller w&uuml;nscht ein Parteiausschlussverfahren gegen drei Parteimitglieder zu er&ouml;ffnen. Das Bundesschiedsgericht weist diese Anrufung mit Verweis auf BSG 2011-12-07 als offensichtlich unzul&auml;ssig ab."
+    },
+    {
+        "Aktenzeichen": "BSG 2011-11-29",
+        "Anrufung": "15.10.2011",
+        "Verweisung": "29.11.2011",
+        "Erledigung": "02.04.2012",
+        "Urteil": "_Datei_BSG_2011-11-29.pdf",
+        "Ergebnis": "Klage abgewiesen",
+        "Zusammenfassung": "Der Kl&auml;ger ficht die Beschl&uuml;sse und Wahlen des LPT Sachsen vom 01.10.2011 an. Die Einladung basiere auf einer fehlerhaften Ausschreibung und sei daher nichtig. Das Bundesschiedsgericht stellt fest, dass die Klage zu sp&auml;t eingereicht wurde, aber selbst bei rechtzeitiger Einreichung nicht erfolgreich gewesen w&auml;re. Der Einberufungsbeschluss wurde korrekt getroffen. Die vorausgegangene Ausschreibung verletzt die Rechte des Kl&auml;gers nicht. Der Vorstand ist nicht verpflichtet jedes Mitglied individuell &uuml;ber den Ausschreibungsstand zu informieren."
+    },
+    {
+        "Aktenzeichen": "BSG 2012-03-15-2",
+        "Anrufung": "29.01.2012",
+        "Berufung": "15.03.2012",
+        "Erledigung": "10.04.2012",
+        "Urteil": "_Datei_BSG_2012-03-15-2.pdf",
+        "Ergebnis": "Berufung zur&uuml;ckgewiesen",
+        "Zusammenfassung": "Der Antragsteller beantragt als Landesvorstand ein Parteiausschlussverfahren. Das zust&auml;ndige Landesschiedsgericht lehnte die Anrufung jedoch ab. Das Bundesschiedsgericht stellte fest, dass Landesverb&auml;nde durchaus ein Parteiausschlussverfahren beantragen k&ouml;nnen, aber nur durch Erm&auml;chtigung durch die jeweilige Landessatzung. Im vorliegenden Fall gen&uuml;gt die Landessatzung hierf&uuml;r nicht."
+    },
+    {
+        "Aktenzeichen": "BSG 2012-03-15-1",
+        "Anrufung": "15.01.2012",
+        "Berufung": "15.03.2012",
+        "Erledigung": "10.04.2012",
+        "Urteil": "_Datei_BSG_2012-03-15-1.pdf",
+        "Ergebnis": "Berufung zur&uuml;ckgewiesen",
+        "Zusammenfassung": "Die Berufung in einem Parteiausschlussverfahren wurde zur&uuml;ckgewiesen. Sachverhalt und Begr&uuml;ndung werden nach &sect;12 Abs. 4 SGO nicht ver&ouml;ffentlicht."
+    },
+    {
+        "Aktenzeichen": "BSG 2011-12-16",
+        "Anrufung": "04.04.2010",
+        "Berufung": "16.12.2011",
+        "Erledigung": "16.04.2012",
+        "Urteil": "_Datei_BSG_2011-12-16.pdf",
+        "Ergebnis": "Berufung zur&uuml;ckgewiesen",
+        "Zusammenfassung": "Der Antragsteller beantragt ein Parteiausschlussverfahren. Das zust&auml;ndige Landesschiedsgericht lehnte den Antrag jedoch als unbegr&uuml;ndet ab. Das Bundesschiedsgericht stellte fest, dass die dem Parteiausschlussantrag zugrundeliegenden &Auml;u&szlig;erungen bereits ein Jahr zuvor mit einer Ordnungsma&szlig;nahme belegt wurden, und damit dem <a href=\"http:\/\/de.wikipedia.org\/wiki\/Ne_bis_in_idem\">Verbot der Doppelbestrafung</a> unterliegen. Die angef&uuml;hrten sp&auml;teren &Auml;u&szlig;erungen gen&uuml;gen nicht f&uuml;r einen Parteiausschluss."
+    },
+    {
+        "Aktenzeichen": "BSG 2012-03-13",
+        "Anrufung": "13.03.2012",
+        "Erledigung": "16.04.2012",
+        "Urteil": "_Datei_BSG_2012-03-13.pdf",
+        "Ergebnis": "Anrufung abgewiesen",
+        "Zusammenfassung": "Der Antragsteller bittet festzustellen, dass er das Landesschiedsgericht Sachsen zum 26.02.2012 mittels Verweis auf das Widerstandsrecht nach Art. 20 Abs. 4 GG rechtswirksam abgesetzt hat. Das Bundesschiedsgericht stellte nach umfassender Pr&uuml;fung fest, dass in Sachsen aktuell kein B&uuml;rgerkrieg herrscht. Die Anrufung war aus Gr&uuml;nden abzulehnen."
+    },
+    {
+        "Aktenzeichen": "BSG 2012-03-22",
+        "Anrufung": "28.12.2011",
+        "Berufung": "22.03.2012",
+        "Erledigung": "23.04.2012",
+        "Urteil": "_Datei_BSG_2012-03-22.pdf",
+        "Ergebnis": "Berufung stattgegeben",
+        "Zusammenfassung": "Die Berufung im Parteiausschlussverfahren war erfolgreich. Wissentlich wahrheitswidrige Angaben bei einer Kandidatenbefragung stellen einen erheblichen Versto&szlig; gegen die Grunds&auml;tze der Piratenpartei dar. Sie rechtfertigen, sofern daraus ein schwerer Schaden f&uuml;r die Partei entsteht, einen Parteiausschluss. Sachverhalt und Begr&uuml;ndung werden nach &sect; 12 Abs. 4 SGO nicht ver&ouml;ffentlicht."
+    }
   ]
  },
 
@@ -165,6 +370,608 @@
    { "Name": "Katrin Kirchert", "Ersatz": 1, "Link": "https://wiki.piratenpartei.de/Benutzer:Deanna" },
    { "Name": "Georg von Boroviczeny", "Ersatz": 1, "Link": "https://wiki.piratenpartei.de/Benutzer:Georgberlin" } ],
   "Urteile": [
+    {
+        "Aktenzeichen": "BSG 2010-06-30",
+        "Anrufung": "30.06.2010",
+        "Erledigung": "14.11.2013",
+        "Urteil": "_Datei_BSG_2010-06-30.pdf",
+        "Ergebnis": "Berufung zur&uuml;ckgewiesen",
+        "Zusammenfassung": "Der KV Bonn beantragt seine rechtswirksame Gr&uuml;ndung am 10.04.2010 feststellen zu lassen, trotz eines zum damaligen Zeitpunkt in der Landessatzung verankerten Gr&uuml;ndungsverbotes. Das Landesschiedsgericht wies den Antrag ab (LSGNRW 2010\/10). Das Bundesschiedsgericht wies die dagegen gerichtete Berufung zur&uuml;ck, da der Klage durch Entfall der Satzungsregelung die Grundlage entzogen wurde, und eventuelle M&auml;ngel der Gr&uuml;ndung vom 10.04.2010 durch sp&auml;tere Kreisparteitage geheilt wurden."
+    },
+    {
+        "Aktenzeichen": "BSG 2012-05-25",
+        "Anrufung": "18.04.2012",
+        "Berufung": "25.05.2012",
+        "Erledigung": "23.07.2012",
+        "Urteil": "_Datei_BSG_2012-05-25.pdf",
+        "Ergebnis": "Berufung stattgegeben",
+        "Zusammenfassung": "Der Berufung in einem Verfahren gegen eine Ordnungsma&szlig;nahme wurde stattgegeben, das Verfahren an das Landesschiedsgericht zur&uuml;ckgewiesen. Sachverhalt und Begr&uuml;ndung werden nach &sect; 13 Abs. 5 SGO nicht ver&ouml;ffentlicht."
+    },
+    {
+        "Aktenzeichen": "BSG 2012-05-26",
+        "Anrufung": "26.05.2012",
+        "Erledigung": "23.07.2012",
+        "Urteil": "_Datei_BSG_2012-05-26.pdf",
+        "Ergebnis": "Klage abgewiesen",
+        "Zusammenfassung": "Der Kl&auml;ger beantragt die Wahlen auf dem BPT 2012.1 f&uuml;r ung&uuml;ltig zu erkl&auml;ren, da die Einf&uuml;hrung von Unterst&uuml;tzerunterschriften nicht rechtm&auml;&szlig;ig sei. Das Bundesschiedsgericht stellte fest, dass Vorkommnisse, die die Rechtm&auml;&szlig;igkeit von Wahlen auf Bundesparteitagen betreffen, bereits auf dem Bundesparteitag zu r&uuml;gen sind. Weiter ist das Unterst&uuml;tzerunterschriftenquorum mit Parteienrecht und Satzung vereinbar, die detaillierten Regelungen zur Kandidatur unterliegen dem Gestaltungsrecht des Parteitages."
+    },
+    {
+        "Aktenzeichen": "BSG 2012-05-28",
+        "Anrufung": "30.04.2012",
+        "Berufung": "28.05.2012",
+        "Erledigung": "13.08.2012",
+        "Urteil": "_Datei_BSG_2012-05-28.pdf",
+        "Ergebnis": "Berufungsverfahren nicht er&ouml;ffnet",
+        "Zusammenfassung": "Der Antragsteller m&ouml;chte gegen das Urteil LSG-NI-2012-04-30-1 des Landesschiedsgerichtes Niedersachsen Berufung einlegen. Das Bundesschiedsgericht stellt fest, dass durch ein anderes zwischenzeitlich ergangenes Urteil dem Verfahren die Grundlage entzogen wurde. Die Berufung ist damit nicht mehr statthaft. Nicht statthafte Anrufungen k&ouml;nnen unmittelbar zur&uuml;ckgewiesen werden."
+    },
+    {
+        "Aktenzeichen": "BSG 2012-06-05",
+        "Anrufung": "05.06.2012",
+        "Erledigung": "06.08.2012",
+        "Urteil": "_Datei_BSG_2012-06-05.pdf",
+        "Ergebnis": "Anrufung abgewiesen",
+        "Zusammenfassung": "Der Antragsteller begehrte die Behandlung von mehreren Parteiausschlussantr&auml;gen durch den Bundesvorstand. Das Bundesschiedsgericht stellt fest, dass f&uuml;r eine derartige Anrufung zun&auml;chst das in der Schiedsgerichtsordnung vorgesehene Schlichtungsverfahren durchzuf&uuml;hren ist."
+    },
+    {
+        "Aktenzeichen": "BSG 2012-06-11",
+        "Anrufung": "11.06.2012",
+        "Erledigung": "25.06.2012",
+        "Ergebnis": "-",
+        "Zusammenfassung": "Das Landesschiedsgericht Niedersachsen war im Verfahren LSG-NI-2012-05-03-1 beschlussunf&auml;hig. Das Verfahren wurde durch Beschluss nach &sect; 5 Abs. 8 SGO an das LSG Bremen verwiesen."
+    },
+    {
+        "Aktenzeichen": "BSG 2012-06-26",
+        "Anrufung": "26.06.2012",
+        "Erledigung": "12.08.2012",
+        "Urteil": "_Datei_BSG_2012-06-26.pdf",
+        "Ergebnis": "Klage abgewiesen",
+        "Zusammenfassung": "Der Antragsteller wendet sich gegen das geplante Update von Liquid Feedback auf eine neuere Version. Das Bundesschiedsgericht stellt fest, dass der urspr&uuml;ngliche Parteitagsbeschluss Z013 lediglich die Einf&uuml;hrung von Liquid Feedback umfasste; der Betrieb, die Ver&auml;nderung von Betriebsparametern und die zuk&uuml;nftige Weiterentwicklung kann aber vom Bundesvorstand grunds&auml;tzlich frei gehandhabt werden."
+    },
+    {
+        "Aktenzeichen": "BSG 2012-06-28",
+        "Anrufung": "28.06.2012",
+        "Erledigung": "28.08.2012",
+	"Historie": [
+		{ "Datum": "29.06.2012", "Ereignis": "Abweisung Antrag auf einstweilige Anordnung", "Beschluss": "_Datei_BSG_2012-06-28-EV.pdf" }
+    	],
+        "Ergebnis": "Klage zur&uuml;ckgezogen",
+        "Zusammenfassung": "Die Klage richtete sich gegen die Regelung zur &Auml;mterkumulationen von Schiedsrichtern. Ein Antrag auf einstweilige Anordnung wurde abgewiesen. In der m&uuml;ndlichen Verhandlung wurde dann die Klage zur&uuml;ckgezogen."
+    },
+    {
+        "Aktenzeichen": "BSG 2012-07-11",
+        "Anrufung": "urspr&uuml;nglich 11.07.2012, dieser Teil 18.07.2012",
+        "Erledigung": "19.07.2012",
+        "Urteil": "_Datei_BSG_2012-07-11(18).pdf",
+        "Ergebnis": "Antrag abgewiesen",
+        "Zusammenfassung": "Der Antragsteller begehrte eine einstweilige Anordnung, mit dem Ziel, die Durchf&uuml;hrung einer Aufstellungsversammlung zu untersagen und den einladenden Vorstand zu verpflichten, eine neue Versammlung einzuberufen."
+    },
+    {
+        "Aktenzeichen": "BSG 2012-08-09",
+        "Anrufung": "31.07.2012",
+        "Berufung": "09.08.2012",
+        "Erledigung": "10.08.2012",
+        "Urteil": "_Datei_BSG_2012-08-09.pdf",
+        "Ergebnis": "Beschwerde abgewiesen",
+        "Zusammenfassung": "Das zust&auml;ndige Landesschiedsgericht lehnte eine einstweilige Anordnung gegen einen Kreisparteitag ab, der Antragsteller legte hiergegen sofortige Beschwerde ein. Das Bundesschiedsgericht lehnte diese ab. Die potentielle Anfechtbarkeit eines Parteitages gen&uuml;gt nicht um diesen vorab zu untersagen."
+    },
+    {
+        "Aktenzeichen": "BSG 2012-08-20",
+        "Anrufung": "20.08.2012",
+        "Erledigung": "03.09.2012",
+        "Urteil": "_Datei_BSG_2012-08-20.pdf",
+        "Ergebnis": "Anrufung abgewiesen",
+        "Zusammenfassung": "Die Antragsteller beantragten mehrere Parteiausschl&uuml;sse. Die Anrufung gen&uuml;gte jedoch nicht der in der Schiedsgerichtsordnung vorgegebenen Form und war daher abzuweisen."
+    },
+    {
+        "Aktenzeichen": "BSG 2012-08-22-2",
+        "Anrufung": "22.08.2012",
+        "Erledigung": "10.09.2012",
+        "Urteil": "_Datei_BSG_2012-08-22-2.pdf",
+        "Ergebnis": "Beschwerde erfolgreich",
+        "Zusammenfassung": "Der Beschwerdef&uuml;hrer richtet sich gegen die abgelehnte Er&ouml;ffnung seines Verfahrens. Das Bundesschiedsgericht stellt fest, dass die Voraussetzungen f&uuml;r eine Verfahrenser&ouml;ffnung vorlagen, und verwies das Verfahren an das Ursprungsgericht zur Verhandlung zur&uuml;ck. In der Sache wurde nicht entschieden."
+    },
+    {
+        "Aktenzeichen": "BSG 2012-08-22-1",
+        "Anrufung": "02.08.2012",
+        "Berufung": "22.08.2012",
+        "Erledigung": "01.10.2012",
+        "Urteil": "_Datei_BSG_2012-08-22-1.pdf",
+        "Ergebnis": "Berufung wurde zur&uuml;ckgewiesen",
+        "Zusammenfassung": "Der Antragsteller m&ouml;chte feststellen lassen, dass die Vertagung einer Aufstellungsversammlung &uuml;ber einen Zeitraum von vier Wochen unzul&auml;ssig sei. Das Bundesschiedsgericht stellt fest, dass es keinen gesetzlich festgelegten Maximalzeitraum f&uuml;r eine Vertagung gibt, sowie dass die sachlichen Voraussetzungen f&uuml;r eine wirksame Vertagung vorlagen."
+    },
+    {
+        "Aktenzeichen": "BSG 2012-08-24",
+        "Anrufung": "24.08.2012",
+        "Erledigung": "17.09.2012",
+        "Urteil": "_Datei_BSG_2012-08-24.pdf",
+        "Ergebnis": "Beschwerde abgewiesen",
+        "Zusammenfassung": "Der Beschwerdef&uuml;hrer beantragte in einem laufenden Verfahren am Landesschiedsgericht die Ablehnung eines Richters wegen Befangenheit. Das Landesschiedsgericht lehnte den Antrag ab, woraufhin die Beschwerde beim Bundesschiedsgericht erhoben wurde. Die Beschwerde war erfolglos."
+    },
+    {
+        "Aktenzeichen": "BSG 2012-09-18",
+        "Anrufung": "18.09.2012",
+        "Erledigung": "12.11.2012",
+        "Urteil": "_Datei_BSG_2012-09-18.pdf",
+        "Ergebnis": "Klage abgewiesen",
+        "Zusammenfassung": "Der Antragsteller wendet sich gegen die Nutzung von Liquid Feedback auf Bundesebene, und beantragt unter anderem festzustellen dass LQFB ein Parteiorgan im Sinne des &sect; 8 PartG sei. Das Bundesschiedsgericht stellt fest, dass LQFB in der aktuellen Ausgestaltung auf Bundesebene kein Parteiorgan ist. Im LQFB getroffene Meinungsbilder entfalten keine Bindungswirkung, die Teilnahme an LQFB ist jedem Mitglied selbst &uuml;berlassen."
+    },
+    {
+        "Aktenzeichen": "BSG 2012-09-29",
+        "Anrufung": "25.09.2012",
+        "Berufung": "29.09.2012",
+        "Erledigung": "29.09.2012",
+        "Urteil": "_Datei_BSG_2012-09-29.pdf",
+        "Ergebnis": "Antrag abgewiesen",
+        "Zusammenfassung": "Der Antragsteller beantragt eine von einem Landesschiedsgericht erlassene einstweilige Anordnung aufzuheben. Das Bundesschiedsgericht weist den Antrag ab, da gegen eine <i>erlassene</i> einstweilige Anordnung zuerst Widerspruch beim Ausgangsgericht einzulegen ist. Nur wenn eine einstweilige Anordnung <i>abgelehnt</i> wurde, ist der direkte Weg vor das Bundesschiedsgericht er&ouml;ffnet."
+    },
+    {
+        "Aktenzeichen": "BSG 2012-10-08",
+        "Anrufung": "02.10.2012",
+        "Berufung": "08.10.2012",
+        "Erledigung": "08.10.2012",
+        "Urteil": "_Datei_BSG_2012-10-08.pdf",
+        "Ergebnis": "Berufung zur&uuml;ckgewiesen",
+        "Zusammenfassung": "Der Berufungskl&auml;ger wendet sich gegen eine einstweilige Anordnung des Landesschiedsgerichts Niedersachsen zu einer Aufstellungsversammlung einzuladen. Die Berufung wurde vom Bundesschiedsgericht abgelehnt, da alle erforderlichen Voraussetzungen f&uuml;r die einstweilige Anordnung vorlagen (korrekter Verfahrensgegner, Anordnungsgrund und Anordnungsanspruch nach &sect; 19 Abs. 2 Satz 2 NLWG).<br \/>\n<b>Stellungnahme des Bundesschiedsgerichtes:</b><br \/>\n<br \/>\nDem Bundesschiedsgericht sind bei dieser Entscheidung bedauerlicherweise Fehler unterlaufen. Eine Berichtigung des Urteils ist nur auf Antrag eines der Verfahrensbeteiligten m&ouml;glich, der bis jetzt nicht eingegangen ist, &sect;&sect; 1 Abs. 3 SGO, 319 ff. ZPO:<br \/>\n<br \/>\n- Der erste Satz der Begr&uuml;ndung m&uuml;sste lauten: &quot;Die zul&auml;ssige Berufung ist nicht begr&uuml;ndet.&quot; <br \/>\n<br \/>\n- Das Bundesschiedsgericht legte bei seiner Entscheidung den falschen Wahlkreis zu Grunde. Die Entscheidung wird getragen von den Umst&auml;nden in Wahlkreis Nr. 28 (Hannover Mitte) und nicht dem im Verfahren betroffenen Wahlkreis Nr. 27 (Hannover-Ricklingen).  Bisher hat das Bundesschiedsgericht nicht gepr&uuml;ft, ob die Entscheidung bei richtiger Wahlkreisbestimmung anders ausgefallen w&auml;re."
+    },
+    {
+        "Aktenzeichen": "BSG 2012-10-16",
+        "Anrufung": "18.09.2012",
+        "Berufung": "16.10.2012",
+        "Erledigung": "05.11.2012",
+        "Urteil": "_Datei_BSG_2012-10-16.pdf",
+        "Ergebnis": "Beschwerde abgewiesen",
+        "Zusammenfassung": "Der Beschwerdef&uuml;hrer lehnt einen Richter am Landesschiedsgericht wegen Befangenheit ab. Das Landesschiedsgericht sah keine Befangenheit, hiergegen wurde Beschwerde erhoben. Das Bundesschiedsgericht stellt fest, dass &Auml;usserungen in anderen Verfahren und regul&auml;re Prozessleitung grunds&auml;tzlich keine Befangenheit begr&uuml;nden. Solange aber &uuml;ber Befangenheitsantr&auml;ge entschieden wird, d&uuml;rfen vom Schiedsgericht nur Handlungen vorgenommen werden, die keinen Aufschub gestatten."
+    },
+    {
+        "Aktenzeichen": "BSG 2012-10-31",
+        "Anrufung": "11.07.2012",
+        "Berufung": "31.10.2012",
+        "Erledigung": "04.02.2013",
+        "Urteil": "_Datei_BSG_2012-10-31.pdf",
+        "Ergebnis": "Berufung teilweise erfolgreich",
+        "Zusammenfassung": "folgt"
+    },
+    {
+        "Aktenzeichen": "BSG 2012-11-05",
+        "Anrufung": "05.11.2012",
+        "Erledigung": "05.12.2012",
+        "Urteil": "_Datei_BSG_2012-11-05.pdf",
+        "Ergebnis": "Anrufung abgewiesen",
+        "Zusammenfassung": "Der Antragsteller m&ouml;chte die Beschl&uuml;sse einer Aufstellungsversammlung anfechten. Das Bundesschiedsgericht stellte fest, dass es auch dann nicht erstinstanzlich zust&auml;ndig ist, wenn der Kl&auml;ger ein befangenes oder handlungsunf&auml;higes Landesschiedsgericht vermutet. Diese Feststellung muss grunds&auml;tzlich das entsprechende Gericht selbst treffen."
+    },
+    {
+        "Aktenzeichen": "BSG 2012-11-08-2",
+        "Anrufung": "08.11.2012",
+        "Erledigung": "19.11.2012",
+        "Urteil": "_Datei_BSG_2012-11-08-2.pdf",
+        "Ergebnis": "Antrag abgewiesen",
+        "Zusammenfassung": "Der Antragsteller beantragt per einstweiliger Anordnung festzustellen, dass Befangenheitsantr&auml;ge in einem Schiedsgerichtsverfahren vor einem Landesschiedsgericht aufschiebende Wirkung haben, und eine angesetzte Verhandlung daher abgesagt werden m&uuml;sse. Das Bundesschiedsgericht stellt fest, dass die Zust&auml;ndigkeit f&uuml;r einstweilige Anordnungen beim Schiedsgericht in der Hauptsache, hier also beim Landesschiedsgericht, liegt."
+    },
+    {
+        "Aktenzeichen": "BSG 2012-11-08-1",
+        "Anrufung": "08.11.2012",
+        "Erledigung": "19.11.2012",
+        "Urteil": "_Datei_BSG_2012-11-08-1.pdf",
+        "Ergebnis": "Beschwerde erfolgreich",
+        "Zusammenfassung": "Der Beschwerdef&uuml;hrer m&ouml;chte die Besorgnis der Befangenheit eines Schiedsrichters in einem Verfahren vor dem Landesschiedsgericht feststellen lassen. Das Landesschiedsgericht lehnte einen entsprechenden Antrag ab. Das Bundesschiedsgericht stellt fest, dass die dienstliche Stellungnahme des betroffenen Richters unzureichend, und die Begr&uuml;ndung der Ablehnung unvollst&auml;ndig ist, und verwies die Entscheidung zur&uuml;ck an das Landesschiedsgericht."
+    },
+    {
+        "Aktenzeichen": "BSG 2012-11-28",
+        "Anrufung": "18.10.2012",
+        "Verweisung": "28.11.2012",
+        "Erledigung": "28.01.2013",
+        "Urteil": "_Datei_BSG_2012-11-28.pdf",
+        "Ergebnis": "Anrufung abgewiesen",
+        "Zusammenfassung": "Der Kl&auml;ger ist w&auml;hrend des Verfahrens aus der Partei ausgetreten."
+    },
+    {
+        "Aktenzeichen": "BSG 2012-12-02",
+        "Anrufung": "07.11.2012",
+        "Berufung": "02.12.2012",
+        "Erledigung": "28.01.2013",
+        "Urteil": "_Datei_BSG_2012-12-02.pdf",
+        "Ergebnis": "Berufung zur&uuml;ckgewiesen",
+        "Zusammenfassung": "Der Berufungskl&auml;ger wendet sich gegen den Beschluss des Landesschiedsgerichtes Mecklenburg-Vorpommern. Dieses hatte den Antrag des Kl&auml;gers gegen die Satzungsregelung zur Stimmberechtigung in der &quot;St&auml;ndigen Mitgliederversammlung&quot; abgelehnt. Das BSG hat festgestellt, dass die auf der &quot;3-Monats-Frist&quot; der Bundessatzung basierende Regelung in der Landessatzung zul&auml;ssig ist, sofern es sich um online abgehaltene Parteitage handelt."
+    },
+    {
+        "Aktenzeichen": "BSG 2012-12-13",
+        "Anrufung": "18.04.2012",
+        "Berufung": "13.12.2012",
+        "Erledigung": "06.05.2013",
+        "Urteil": "_Datei_BSG_2012-12-13.pdf",
+        "Ergebnis": "Berufung teilweise erfolgreich",
+        "Zusammenfassung": "Der Berufungskl&auml;ger wendet sich gegen den Beschluss des Landesschiedsgerichtes, welches ihm die Akteneinsicht in einem gegen ihn beantragten Parteiausschlussverfahrens verwehrt. Das Bundesschiedsgericht stellt fest, dass das Akteneinsichtsrecht nach Satzung auch nicht er&ouml;ffnete Verfahren umfasst. Die weiteren Antr&auml;ge insbesondere auf Verweisung des Hauptsacheverfahrens an ein anderes Landesschiedsgericht wurden abgelehnt."
+    },
+    {
+        "Aktenzeichen": "BSG 2012-12-16",
+        "Anrufung": "28.08.2012",
+        "Berufung": "16.12.2012",
+        "Erledigung": "17.01.2013",
+        "Urteil": "_Datei_BSG_2012-12-16.pdf",
+        "Ergebnis": "Berufung zur&uuml;ckgewiesen",
+        "Zusammenfassung": "Der Berufungskl&auml;ger wendet sich gegen den Beschluss des Landesschiedsgerichtes, welches eine auf zwei Termine &uuml;ber mehrere Wochen in der Hauptferienzeit verteilte Aufstellungsversammlung auch dann f&uuml;r zul&auml;ssig erachtete, wenn zu dem zweiten Termin den Kandidaten nicht erneut 10 Minuten Redezeit zur Verf&uuml;gung gestellt wird. Das Bundesschiedsgericht stellt fest, dass zwar unklar ist ob der Berufungskl&auml;ger &uuml;berhaupt in der Sache klagen kann, die Klage selbst aber bereits inhaltlich erfolglos ist. Veranstaltungen zur Hauptferienzeit sind ohne entsprechende Einschr&auml;nkung in der Satzung unproblematisch, und auch die Versammlungsvertagung war unsch&auml;dlich. Auch die 10 Minuten-Regelung des Bundesverfassungsgericht zur Vorstellungszeit findet keine analoge Anwendung."
+    },
+    {
+        "Aktenzeichen": "BSG 2013-01-11",
+        "Anrufung": "10.01.2013",
+        "Verweisung": "11.01.2013",
+        "Erledigung": "12.01.2013",
+        "Urteil": "_Datei_BSG_2013-01-11.pdf",
+        "Ergebnis": "Verweisungsbeschluss aufgehoben, Verfahren an das LSG zur&uuml;ckverwiesen.",
+        "Zusammenfassung": "Der Mitgliedsstatus des Antragstellers ist umstritten, aber er m&ouml;chte an eienr Aufstellungsversammlung teilnehmen. Das Eilverfahren wurde vom Landesschiedsgericht an das Bundesschiedsgericht verwiesen. Das Bundesschiedsgericht stellte fest, dass f&uuml;r die Verweisung in der Satzung keine Rechtsgrundlage bestand. Es hob daher den Verweisungsbeschluss auf und verwies das Verfahren an das nach wie vor zust&auml;ndige Landesschiedsgericht zur&uuml;ck."
+    },
+    {
+        "Aktenzeichen": "BSG 2013-01-13",
+        "Anrufung": "21.11.2012",
+        "Berufung": "13.01.2013",
+        "Erledigung": "04.03.2013",
+        "Urteil": "_Datei_BSG_2013-01-13.pdf",
+        "Ergebnis": "Berufung zur&uuml;ckgewiesen",
+        "Zusammenfassung": "folgt"
+    },
+    {
+        "Aktenzeichen": "BSG 2013-01-14",
+        "Anrufung": "21.12.2012",
+        "Berufung": "14.01.2013",
+        "Erledigung": "21.01.2013",
+        "Urteil": "_Datei_BSG_2013-01-14.pdf",
+        "Ergebnis": "Antrag zur&uuml;ckgewiesen",
+        "Zusammenfassung": "folgt"
+    },
+    {
+        "Aktenzeichen": "BSG 2013-01-16",
+        "Anrufung": "16.01.2013",
+        "Erledigung": "04.02.2013",
+        "Urteil": "_Datei_BSG_2013-01-16.pdf",
+        "Ergebnis": "Antrag abgewiesen",
+        "Zusammenfassung": "Der Kl&auml;ger ist w&auml;hrend des Verfahrens aus der Partei ausgetreten."
+    },
+    {
+        "Aktenzeichen": "BSG 2013-01-19",
+        "Anrufung": "01.01.2013",
+        "Berufung": "19.01.2013",
+        "Erledigung": "25.01.2013",
+        "Urteil": "_Datei_BSG_2013-01-19.pdf",
+        "Ergebnis": "Sofortige Beschwerde abgewiesen",
+        "Zusammenfassung": "Der Beschwerdef&uuml;hrer begehrt eine einstweilige Anordnung gegen die Durchf&uuml;hrung einer Aufstellungsversammlung zur Bundestagswahl, da die einschl&auml;gigen Fristen nicht beachtet worden seien. Das Bundesschiedsgericht stellte fest, dass das zust&auml;ndige Landesschiedsgericht den Antrag zu Recht nicht stattgegeben hat."
+    },
+    {
+        "Aktenzeichen": "BSG 2013-01-20",
+        "Anrufung": "-",
+        "Berufung": "20.01.2013",
+        "Erledigung": "-",
+        "Urteil": "_Datei_BSG_2013-01-20-EA.pdf",
+        "Ergebnis": "Anrufung zur&uuml;ckgenommen",
+        "Zusammenfassung": "Der Antragsteller ficht eine Aufstellungsversammlung an. Eine hierauf gerichtete einstweilige Anordnung wurde abgelehnt. Das weitere Verfahren wurde eingestellt, da die Anrufung zur&uuml;ckgenommen wurde."
+    },
+    {
+        "Aktenzeichen": "BSG 2013-01-27",
+        "Anrufung": "27.01.2013",
+        "Erledigung": "25.03.2013",
+        "Urteil": "_Datei_BSG_2013-01-27.pdf",
+        "Ergebnis": "Sofortige Beschwerde erfolgreich",
+        "Zusammenfassung": "Der Beschwerdef&uuml;hrer wendet sich gegen die Entscheidung eines Landesschiedsgerichtes ein Widerspruchsverfahren gegen eine einstweilige Anordnung wegen Verfristung nicht zu er&ouml;ffnen. Das Bundesschiedsgericht stellte fest, dass das zugrundeliegende Rechtsmittel fristgerecht aber vor dem falschen Schiedsgericht eingelegt wurde. Die war jedoch wegen einer unpr&auml;zisen Rechtsmittelerkl&auml;rung unsch&auml;dlich. Auch h&auml;tte das unzust&auml;ndige Schiedsgericht das Rechtsmittel an das zust&auml;ndige Schiedsgericht verweisen m&uuml;ssen."
+    },
+    {
+        "Aktenzeichen": "BSG 2013-02-23",
+        "Anrufung": "23.02.2013",
+        "Erledigung": "15.04.2013",
+        "Urteil": "_Datei_BSG_2013-02-23.pdf",
+        "Ergebnis": "Beschwerde erledigt",
+        "Zusammenfassung": "Der Beschwerdef&uuml;hrer beantragt eine ungeb&uuml;hrliche Verfahrensverz&ouml;gerung bei einem Verfahren vor einem Landesschiedsgericht festzustellen. Im Laufe des Beschwerdeverfahrens stellt sich herausdass das Ursprungsverfahren bereits beendet war."
+    },
+    {
+        "Aktenzeichen": "BSG 2013-02-25",
+        "Anrufung": "25.02.2013",
+        "Erledigung": "24.04.2013",
+        "Urteil": "_Datei_BSG_2013-02-25.pdf",
+        "Ergebnis": "Beschwerde erledigt",
+        "Zusammenfassung": "Der Beschwerdef&uuml;hrer beantragt eine ungeb&uuml;hrliche Verfahrensverz&ouml;gerung bei einem Verfahren vor einem Landesschiedsgericht festzustellen. Im Laufe des Beschwerdeverfahrens stellt sich herausdass das Ursprungsverfahren bereits beendet war."
+    },
+    {
+        "Aktenzeichen": "BSG 2013-02-27",
+        "Anrufung": "03.12.2012",
+        "Berufung": "27.02.2013",
+        "Erledigung": "08.04.2013",
+        "Urteil": "_Datei_BSG_2013-02-27.pdf",
+        "Ergebnis": "Berufung zur&uuml;ckgewiesen",
+        "Zusammenfassung": "Der Berufungskl&auml;ger wendet sich gegen einen Beschluss des Landesschiedsgerichtes. Hiergegen rief er das Bundesschiedsgericht fristgerecht aber unvollst&auml;ndig an. Das Bundesschiedsgericht stellte fest, dass der nach Aufforderung korrigierte Berufungsantrag zwar vollst&auml;ndig, aber verfristet war."
+    },
+    {
+        "Aktenzeichen": "BSG 2013-03-25",
+        "Anrufung": "14.12.2012",
+        "Berufung": "25.03.2013",
+        "Erledigung": "29.04.2013",
+        "Urteil": "_Datei_BSG_2013-03-25.pdf",
+        "Ergebnis": "Berufung erfolgreich",
+        "Zusammenfassung": "Der Berufungskl&auml;ger ficht die Aufstellungsversammlung zur Landesliste Th&uuml;ringen BTW 2013 an. Das Bundesschiedsgericht stellt einen Versto&szlig; gegen das Bundeswahlgesetz fest, stellt die Nichtigkeit der Aufstellungsversammlung fest."
+    },
+    {
+        "Aktenzeichen": "BSG 2013-03-27",
+        "Anrufung": "27.03.2013",
+        "Erledigung": "08.04.2013",
+        "Urteil": "_Datei_BSG_2013-03-27.pdf",
+        "Ergebnis": "Anrufung abgewiesen",
+        "Zusammenfassung": "Der Antragsteller m&ouml;chte die Beschl&uuml;sse einer Aufstellungsversammlung anfechten. Das Bundesschiedsgericht stellte fest, dass es auch dann nicht erstinstanzlich zust&auml;ndig ist, wenn der Kl&auml;ger ein befangenes oder handlungsunf&auml;higes Landesschiedsgericht vermutet. Diese Feststellung muss grunds&auml;tzlich das entsprechende Gericht selbst treffen."
+    },
+    {
+        "Aktenzeichen": "BSG 2013-03-28",
+        "Anrufung": "28.03.2013",
+        "Erledigung": "15.04.2013",
+        "Urteil": "_Datei_BSG_2013-03-28.pdf",
+        "Ergebnis": "Beschwerde stattgegeben",
+        "Zusammenfassung": "Der Beschwerdef&uuml;hrer beantragt in einem an einem Landesschiedsgericht anh&auml;ngigen Verfahren im einstweiligen Rechtsschutz zu entscheiden. Innerhalb von zwei Monaten gab es dort keinen nachvollziehbaren Verfahrensfortgang. Das Gericht stellte fest, dass eine ungeb&uuml;hrliche Verfahrensverz&ouml;gerung vorliegt, gab der Beschwerde statt und verwies das Verfahren an ein anderes Landesschiedsgericht."
+    },
+    {
+        "Aktenzeichen": "BSG 2013-03-30",
+        "Anrufung": "30.03.2013",
+        "Erledigung": "08.04.2013",
+        "Urteil": "_Datei_BSG_2013-03-30.pdf",
+        "Ergebnis": "Anrufung abgewiesen",
+        "Zusammenfassung": "Der Antragsteller m&ouml;chte die Beschl&uuml;sse einer Aufstellungsversammlung anfechten. Das Bundesschiedsgericht stellte fest, dass es auch dann nicht erstinstanzlich zust&auml;ndig ist, wenn der Kl&auml;ger ein befangenes oder handlungsunf&auml;higes Landesschiedsgericht vermutet. Diese Feststellung muss grunds&auml;tzlich das entsprechende Gericht selbst treffen."
+    },
+    {
+        "Aktenzeichen": "BSG 2013-04-15",
+        "Anrufung": "15.04.2013",
+        "Erledigung": "18.07.2013",
+        "Urteil": "_Datei_BSG_2013-04-15.pdf",
+        "Ergebnis": "Berufung abgewiesen",
+        "Zusammenfassung": "Der Antragsteller wendet sich im Berufungsverfahren gegen die Einladung zu Mitglieder- und Aufstellungsversammlungen durch den Landesverband NRW. Das Bundesschiedsgericht stellte fest, dass der Landesverband zust&auml;ndig war, und die Einladung auch durch Beauftragte rechtm&auml;&szlig;ig war."
+    },
+    {
+        "Aktenzeichen": "BSG 2013-04-26",
+        "Anrufung": "26.04.2013",
+        "Erledigung": "20.06.2013",
+        "Urteil": "_Datei_BSG_2013-04-26.pdf",
+        "Ergebnis": "Anrufung abgewiesen",
+        "Zusammenfassung": "Der Antragsteller m&ouml;chte eine einstweilige Ma&szlig;nahme eines Landesschiedsgerichtes aufheben lassen. Das Bundesschiedsgericht stellte fest, dass der Antragsteller hierf&uuml;r Verfahrensbeteiligter des entsprechenden Ursprungsverfahrens sein m&uuml;sste."
+    },
+    {
+        "Aktenzeichen": "BSG 2013-04-27",
+        "Anrufung": "27.04.2013",
+        "Erledigung": "06.05.2013",
+        "Urteil": "_Datei_BSG_2013-04-27-EA.pdf",
+        "Ergebnis": "Antrag abgewiesen",
+        "Zusammenfassung": "Die Antragsteller m&ouml;chten per einstweiliger Anordnung &Auml;nderungen an Antr&auml;gen zu einem Bundesparteitag nach Ablauf der Einreichungsfrist sowie eine &Auml;nderung des Tagesordnungsvorschlags des Bundesvorstandes durchsetzen. Das Bundesschiedsgericht lehnte die Antr&auml;ge auf einstweiligen Rechtsschutz ab, da die Satzung nach Ablauf der Einreichungsfrist keine &Auml;nderungen des Antragstext erlaubt, eine Diskriminierung der Antragsteller nicht dargelegt wurde, und auch im TO-Vorschlag des Bundesvorstandes keine Ungleichbehandlung ersichtlich ist."
+    },
+    {
+        "Aktenzeichen": "BSG 2013-05-04",
+        "Anrufung": "07.01.2013",
+        "Berufung": "04.05.2013",
+        "Erledigung": "08.08.2013",
+        "Urteil": "_Datei_BSG_2013-05-04.pdf",
+        "Ergebnis": "Ordnungsma&szlig;nahme aufgehoben, Berufung zur&uuml;ckgewiesen",
+        "Zusammenfassung": "Der Antragsgegner erlie&szlig; eine Ordnungsma&szlig;nahme, die vom Landesschiedsgericht MV (SGMV 1\/13) abgemildert wurde. Hiergegen legte der Antragsgegner Berufung ein. Das Bundesschiedsgericht stellte fest dass die Ordnungsma&szlig;nahme unrechtm&auml;&szlig;ig war, hob sie vollst&auml;ndig auf und wies die Berufung zur&uuml;ck."
+    },
+    {
+        "Aktenzeichen": "BSG 2013-05-06-1",
+        "Anrufung": "06.05.2013",
+        "Erledigung": "03.06.2013",
+        "Urteil": "_Datei_BSG_2013-05-06-1.pdf",
+        "Ergebnis": "Anrufung abgewiesen",
+        "Zusammenfassung": "Der Antragsteller m&ouml;chte Rechtsmittel gegen eine Ordnungsma&szlig;nahme einlegen. Eine Anrufung des Landesschiedsgerichtes wurde von diesem nicht bearbeitet. Das Bundesschiedsgericht stellte fest, dass Landesschiedsgerichte keine Verfahren er&ouml;ffnen m&uuml;ssen solange die Mindestanforderungen einer Anrufung nicht erf&uuml;llt sind."
+    },
+    {
+        "Aktenzeichen": "BSG 2013-05-06-2",
+        "Anrufung": "06.05.2013",
+        "Erledigung": "10.06.2013",
+	"Historie": [
+		{"Ereignis": "Befangenheitsbeschluss I", "Datum": "", "Beschluss": "_Datei_BSG_2013-05-06-2-Befangenheit.pdf"},
+		{"Ereignis": "Befangenheitsbeschluss II", "Datum": "", "Beschluss": "_Datei_BSG_2013-05-06-2-Befangenheit-2.pdf"}
+	],
+        "Urteil": "_Datei_BSG_2013-05-06-2.pdf",
+        "Ergebnis": "Berufung erfolgreich",
+        "Zusammenfassung": "Die Antragsteller haben vor dem LSG Sachsen die Aufstellungsversammlung Clau&szlig;nitz wegen der Nicht-Teilnahme von Mitgliedern erfolgreich angefochten. Der Berufungsf&uuml;hrer beantragt dieses Urteil aufzuheben.  Das Bundesschiedsgericht stellte fest, dass die ausgebliebene Akkreditierung der Nichtmitglieder von der Versammlung rechtsm&auml;&szlig;ig war, und auch sonst keine Bedenken gegen die Aufstellungsversammlung vorlagen."
+    },
+    {
+        "Aktenzeichen": "BSG 2013-05-15-1",
+        "Anrufung": "15.05.2013",
+        "Erledigung": "24.06.2013",
+        "Urteil": "_Datei_BSG_2013-05-15-1.pdf",
+        "Ergebnis": "Verfahren nicht er&ouml;ffnet",
+        "Zusammenfassung": "Der Antragsteller m&ouml;chte gegen einen Befangenheitsbeschluss eines Landesschiedsgerichtes sofortige Beschwerde einlegen. Das Bundesschiedsgericht stellte fest, dass Befangenheitsbeschl&uuml;sse seit der Einf&uuml;gung des &sect; 5 Abs. 5 Satz 2 SGO explizit unanfechtbar sind."
+    },
+    {
+        "Aktenzeichen": "BSG 2013-05-15-2",
+        "Anrufung": "15.05.2013",
+        "Erledigung": "11.07.2013",
+        "Urteil": "_Datei_BSG_2013-05-15-2.pdf",
+        "Ergebnis": "Beschwerde stattgegeben",
+        "Zusammenfassung": "Der Beschwerdef&uuml;hrer beantragt die ungeb&uuml;hrliche Verfahrensverz&ouml;gerung in einem Verfahren festzustellen, das an einem Landesschiedsgericht anh&auml;ngig ist. Das Bundesschiedsgericht stellte fest, dass das Verfahren dort &uuml;ber einen Zeitraum von sechs Monaten nicht er&ouml;ffnet wurde und damit eine ungeb&uuml;hrliche Verfahrensverz&ouml;gerung vorliegt. Es gab der Beschwerde statt und verwies das Verfahren an ein anderes Landesschiedsgericht."
+    },
+    {
+        "Aktenzeichen": "BSG 2013-05-16",
+        "Anrufung": "16.05.2013",
+        "Erledigung": "26.09.2013",
+        "Urteil": "_Datei_BSG_2013-05-16.pdf",
+        "Ergebnis": "Klage abgewiesen",
+        "Zusammenfassung": "Der Antragsteller wendet sich gegen eine Forenmoderation. Das Bundesschiedsgericht stellt fest, dass die Moderation im vorliegenden Fall keinen Eingriff in Mitgliedsrechte darstellte."
+    },
+    {
+        "Aktenzeichen": "BSG 2013-05-22-2",
+        "Anrufung": "22.05.2013",
+        "Erledigung": "15.08.2013",
+        "Urteil": "_Datei_BSG_2013-05-22-2.pdf",
+        "Ergebnis": "Klage abgewiesen",
+        "Zusammenfassung": "Der Antragsteller beantragt die Absetzung des Bundesvorstandes, unter anderem weil er die maximale Amtszeit von 12 Monaten &uuml;berschritten habe. Das Bundesschiedsgericht stellte fest, dass eine solche Amtszeitbegrenzung keine Grundlage in der Satzung hat."
+    },
+    {
+        "Aktenzeichen": "BSG 2013-05-22-1",
+        "Anrufung": "22.05.2013",
+        "Erledigung": "12.09.2013",
+        "Urteil": "_Datei_BSG_2013-05-22-1.pdf",
+        "Ergebnis": "Klage abgewiesen",
+        "Zusammenfassung": "Der Antragsteller wendet sich gegen eine Moderationssperre auf der Bundesmailingliste und r&uuml;gt die Verletzung seiner Meinungsfreiheit. Das Bundesschiedsgericht stellt fest, dass zwar die f&uuml;r ein Schiedsgerichtsverfahren notwendige Schlichtung nicht stattfand, aber auch so keine Verletzung von Mitgliederrechten vorliegt. Eine Moderation ist keine Ordnungsma&szlig;nahme."
+    },
+    {
+        "Aktenzeichen": "BSG 2013-05-28",
+        "Anrufung": "28.05.2013",
+        "Erledigung": "12.09.2013",
+        "Urteil": "_Datei_BSG_2013-05-28.pdf",
+        "Ergebnis": "Berufung zur&uuml;ckgewiesen",
+        "Zusammenfassung": "Das Landesschiedsgericht Hessen erlie&szlig; eine einstweilige Anordnung gegen virtuelle Meinungsbilder. Gegen die einstweilige Anordnung wurde Berufung eingelegt. Zwischenzeitlich wurde das Verfahren in der Hauptsache erledigt und das Urteil, da zu diesem keine Berufung eingelegt wurde, rechtskr&auml;ftig. Damit entfiel das Rechtsschutzbed&uuml;rfnis und die Berufungsgrundlage."
+    },
+    {
+        "Aktenzeichen": "BSG 2013-05-31",
+        "Anrufung": "31.05.2013",
+        "Erledigung": "10.06.2013",
+        "Urteil": "_Datei_BSG_2013-05-31.pdf",
+        "Ergebnis": "Verfahren verwiesen",
+        "Zusammenfassung": "Der Antragsteller m&ouml;chte eine Ordnungsma&szlig;nahme anfechten. Das Bundesschiedsgericht stellte fest, dass es auch dann nicht erstinstanzlich zust&auml;ndig ist, wenn der Antragsteller selbst Mitglied des erstinstanzlich zust&auml;ndigen Landesschiedsgerichts ist. Eine Feststellung der Befangenheit muss grunds&auml;tzlich das entsprechende Gericht selbst treffen."
+    },
+    {
+        "Aktenzeichen": "BSG 2013-06-03",
+        "Anrufung": "03.06.2013",
+        "Erledigung": "24.06.2013",
+        "Urteil": "_Datei_BSG_2013-06-03.pdf",
+        "Ergebnis": "Verfahren nicht er&ouml;ffnet",
+        "Zusammenfassung": "Der Antragsteller m&ouml;chte gegen Beschl&uuml;sse eines Landesschiedsgerichtes sofortige Beschwerde einlegen. Das Bundesschiedsgericht stellte fest, dass sofortige Beschwerden nur in den von der Satzung bestimmten F&auml;llen m&ouml;glich sind."
+    },
+    {
+        "Aktenzeichen": "BSG 2013-06-07-1",
+        "Anrufung": "07.06.2013",
+        "Erledigung": "24.06.2013",
+        "Urteil": "_Datei_BSG_2013-06-07-1.pdf",
+        "Ergebnis": "Verfahren nicht er&ouml;ffnet",
+        "Zusammenfassung": "Der Antragsteller m&ouml;chte sofortige Beschwerde gegen die Setzung einer Frist durch ein Landesschiedsgericht bez&uuml;glich der Nennung der Anschrift des Antragstellers erheben. Das Bundesschiedsgericht stellte fest, dass sofortige Beschwerden nur in den von der Satzung bestimmten F&auml;llen m&ouml;glich sind."
+    },
+    {
+        "Aktenzeichen": "BSG 2013-06-07-2",
+        "Anrufung": "07.06.2013",
+        "Erledigung": "24.06.2013",
+        "Urteil": "_Datei_BSG_2013-06-07-2.pdf",
+        "Ergebnis": "Verfahren nicht er&ouml;ffnet",
+        "Zusammenfassung": "Der Antragsteller m&ouml;chte gegen Beschl&uuml;sse eines Landesschiedsgerichtes sofortige Beschwerde und Widerspruch einlegen. Das Bundesschiedsgericht stellte fest, dass sofortige Beschwerden und Widerspr&uuml;che nur in den von der Satzung bestimmten F&auml;llen m&ouml;glich sind."
+    },
+    {
+        "Aktenzeichen": "BSG 2013-06-11",
+        "Anrufung": "11.06.2013",
+        "Erledigung": "25.07.2013",
+        "Urteil": "_Datei_BSG_2013-06-11.pdf",
+        "Ergebnis": "Beschwerde zur&uuml;ckgewiesen",
+        "Zusammenfassung": "Der Beschwerdef&uuml;hrer wendet sich gegen einen Nichter&ouml;ffnungsbeschluss des Landesschiedsgerichtes Bayern. Dieses hat seine Anrufung als unstatthaft zur&uuml;ckgewiesen, da es keine Anspruchsgrundlage sah den Landesvorstand zu Abgabe einer Stellungnahme zu verpflichten. Das Bundesschiedsgericht stellte fest, dass diese Entscheidung korrekt ergangen ist."
+    },
+    {
+        "Aktenzeichen": "BSG 2013-06-12",
+        "Anrufung": "12.06.2013",
+        "Erledigung": "25.07.2013",
+        "Urteil": "_Datei_BSG_2013-06-12.pdf",
+        "Ergebnis": "Verfahren nicht er&ouml;ffnet",
+        "Zusammenfassung": "Der Antragsteller m&ouml;chte einen Satzungs&auml;nderungsantrag anfechten. Das Bundesschiedsgericht bat um eine Nachbesserung der unvollst&auml;ndigen Anrufung. Die hierzu gesetzte Frist verstrich ungenutzt."
+    },
+    {
+        "Aktenzeichen": "BSG 2013-06-18",
+        "Anrufung": "18.06.2013",
+        "Erledigung": "21.11.2013",
+        "Urteil": "_Datei_BSG_2013-06-18.pdf",
+        "Ergebnis": "Berufung zur&uuml;ckgewiesen",
+        "Zusammenfassung": "Das Bundesschiedsgericht hat die Berufung gegen das Parteiausschluss LSG NRW 2012-10 zur&uuml;ckgewiesen. Das Parteiausschlussverfahren ist damit erfolgreich. Sachverhalt und Begr&uuml;ndung werden nach &sect; 12 Abs. 4 Satz 2 SGO nicht ver&ouml;ffentlicht."
+    },
+    {
+        "Aktenzeichen": "BSG 2013-06-21",
+        "Anrufung": "21.06.2013",
+        "Erledigung": "01.08.2013",
+        "Urteil": "_Datei_BSG_2013-06-21.pdf",
+        "Ergebnis": "Verfahren nicht er&ouml;ffnet",
+        "Zusammenfassung": "Der Antragsteller m&ouml;chte gegen mehrere Verfahrensentscheidungen eines Landesschiedsgerichtes sofortige Beschwerde erheben. Das Bundesschiedsgericht stellte fest, dass sofortige Beschwerden nur in den von der Satzung bestimmten F&auml;llen m&ouml;glich sind."
+    },
+    {
+        "Aktenzeichen": "BSG 2013-06-24",
+        "Anrufung": "24.06.2013",
+        "Erledigung": "11.07.2013",
+        "Urteil": "_Datei_BSG_2013-06-24.pdf",
+        "Ergebnis": "Verfahren nicht er&ouml;ffnet",
+        "Zusammenfassung": "Der Antragsteller w&uuml;nscht, dass das Bundesschiedsgericht in einem Verfahren vor einem Landesschiedsgericht t&auml;tig wird, nennt jedoch weder Verfahrensgegner noch Aktenzeichen. Das Bundesschiedsgericht stellt fest, dass die Erfordernisse einer formgerechten Anrufung (&sect; 8 Abs. 3 SGO) f&uuml;r jede Art der Anrufung, auch f&uuml;r Beschwerden, gelten."
+    },
+    {
+        "Aktenzeichen": "BSG 2013-07-08",
+        "Anrufung": "08.07.2013",
+        "Erledigung": "12.09.2013",
+        "Urteil": "_Datei_BSG_2013-07-08.pdf",
+        "Ergebnis": "Berufung zur&uuml;ckgewiesen",
+        "Zusammenfassung": "Der Antragsteller m&ouml;chte die Kandidatenaufstellung im Wahlkreis 43 zur Bundestagswahl 2013 aus mehreren Gr&uuml;nden anfechten. Das Landesschiedsgericht Niedersachsen wies die Klage ab (LSG-NI-2013-05-07-1). Auch das Bundesschiedsgericht konnte keine relevanten Anfechtungsgr&uuml;nde feststellen."
+    },
+    {
+        "Aktenzeichen": "BSG 2013-07-09",
+        "Anrufung": "09.07.2013",
+        "Erledigung": "10.10.2013",
+        "Urteil": "_Datei_BSG_2013-07-09.pdf",
+        "Ergebnis": "Klage abgewiesen",
+        "Zusammenfassung": "Der Antragsteller m&ouml;chte den Bundesparteitag 2013.1 insgesamt anfechten, da dieser nicht wirksam er&ouml;ffnet wurde. Alternativ soll ein Beschluss des Bundesparteitags zu einem dort angenommenen sonstiger Antrag aufgehoben werden, da der Antrag in der Einladung nicht benannt wurde. Das Bundesschiedsgericht stellte fest, dass der Parteitag korrekt er&ouml;ffnet wurde, und der Bundesparteitag auch Antr&auml;ge behandeln kann, die nicht in der Einladung genannt wurden."
+    },
+    {
+        "Aktenzeichen": "BSG 2013-07-10",
+        "Anrufung": "10.07.2013",
+        "Erledigung": "07.11.2013",
+        "Urteil": "_Datei_BSG_2013-07-10.pdf",
+        "Ergebnis": "Berufung erfolgreich",
+        "Zusammenfassung": "Der Berufungsf&uuml;hrer wendet sich gegen das Urteil LSG 2013-05-05-1 des Landesschiedsgerichts Niedersachsen. Dies erkl&auml;rte dezentrale Aufstellungsversammlungen f&uuml;r unzul&auml;ssig. Das Bundesschiedsgericht stellte fest, dass auch dezentrale Aufstellungsversammlungen Versammlungen im Sinne des &sect;&sect; 21 BWahlG, 32 BGB sind."
+    },
+    {
+        "Aktenzeichen": "BSG 2013-07-15",
+        "Anrufung": "15.07.2013",
+        "Erledigung": "25.07.2013",
+        "Urteil": "_Datei_BSG_2013-07-15.pdf",
+        "Ergebnis": "Beschwerde zur&uuml;ckgewiesen",
+        "Zusammenfassung": "Der Beschwerdef&uuml;hrer wendet sich gegen einen Nichter&ouml;ffnungsbeschluss des Landesschiedsgerichtes NRW. Das Landesschiedsgericht hatte die Anrufung abgelehnt, da der Beschwerdef&uuml;hrer nach mehrmaliger Aufforderung sich weigerte seine Postanschrift anzugeben. Das Bundesschiedsgericht stellt fest, dass die Anschrift nach &sect; 8 Abs. 3 SGO f&uuml;r eine Verfahrenser&ouml;ffnung grunds&auml;tzlich erforderlich ist."
+    },
+    {
+        "Aktenzeichen": "BSG 2013-07-21",
+        "Anrufung": "21.07.2013",
+        "Erledigung": "22.08.2013",
+        "Urteil": "_Datei_BSG_2013-07-21.pdf",
+        "Ergebnis": "Beschwerde stattgegeben",
+        "Zusammenfassung": "Der Beschwerdef&uuml;hrer beantragt die ungeb&uuml;hrliche Verfahrensverz&ouml;gerung in einem Verfahren festzustellen, das seit einem Jahr an einem Landesschiedsgericht anh&auml;ngig ist. Das Landesschiedsgericht reagierte auf Nachfrage nicht innerhalb der gesetzten Fristen. Das Bundesschiedsgericht stellte eine ungeb&uuml;hrliche Verfahrensverz&ouml;gerung fest, gab der Beschwerde statt und verwies das Verfahren an ein anderes Landesschiedsgericht."
+    },
+    {
+        "Aktenzeichen": "BSG 2013-07-22",
+        "Anrufung": "22.07.2013",
+        "Erledigung": "08.08.2013",
+        "Urteil": "_Datei_BSG_2013-07-22.pdf",
+        "Ergebnis": "Beschwerde zur&uuml;ckgewiesen",
+        "Zusammenfassung": "Der Beschwerdef&uuml;hrer w&uuml;nscht die ungeb&uuml;hrliche Verfahrensverz&ouml;gerung eines Verfahrens an einem Landesschiedsgericht festzustellen. Das Landesschiedsgericht konnte die urspr&uuml;ngliche Anrufung nicht  finden. Der Beschwerdef&uuml;hrer konnte den Eingang seiner Klage beim LSG nicht nachweisen. Das Bundesschiedsgericht wies die Beschwerde zur&uuml;ck, da es anscheinend kein zugeh&ouml;riges Verfahren gibt."
+    },
+    {
+        "Aktenzeichen": "BSG 2013-08-20",
+        "Anrufung": "21.12.2012",
+        "Verweisung": "20.08.2013",
+        "Erledigung": "06.09.2013",
+        "Urteil": "_Datei_BSG_2013-08-20.pdf",
+        "Ergebnis": "Einstweilige Anordnung aufgehoben",
+        "Zusammenfassung": "Ein Kreisvorstand erkl&auml;rte nach &sect; 4 Bundessatzung Vorg&auml;nge um ein Ordnungsma&szlig;nahmeverfahren zur Verschlusssache. Das Landesschiedsgericht hob diesen Beschluss per einstweiliger Anordnung auf (SGMV 4\/12). Das Bundesschiedsgericht stellte im Widerspruchsverfahren fest dass der Antragsteller jedoch nicht von dem Verschluss-Beschluss betroffen war, da dieser keine Wirkung au&szlig;erhalb des beschlie&szlig;enden Gremiums entfaltet."
+    },
+    {
+        "Aktenzeichen": "BSG 2013-08-31",
+        "Anrufung": "31.08.2013",
+        "Erledigung": "31.10.2013",
+        "Urteil": "_Datei_BSG_2013-08-31.pdf",
+        "Ergebnis": "Berufung zur&uuml;ckgewiesen",
+        "Zusammenfassung": "Der Antragsteller m&ouml;chte einen Beschluss des Landesparteitags Saarland bez&uuml;glich Moderationsrichtlinien f&uuml;r Mailinglisten (SoA 003) teilweise aufheben, da eine Moderation als Ordnungsma&szlig;nahme in der Satzung h&auml;tte geregelt werden m&uuml;ssen (Berufung LSG-SL 1\/13). Das Bundesschiedsgericht stellte fest, dass die Nutzung von Mailinglisten zwar ein Mitgliedsrecht, aber eine Moderation keine Ordnungsma&szlig;nahme ist. Der Beschluss des Landesparteitages &uuml;bertr&auml;gt dem Vorstand keine neuen Rechte, sondern gestaltet lediglich aus, wie der Vorstand sein virtuelles Hausrecht wahrzunehmen hat."
+    },
+    {
+        "Aktenzeichen": "BSG 2013-09-16",
+        "Anrufung": "16.09.2013",
+        "Erledigung": "07.11.2013",
+        "Urteil": "_Datei_BSG_2013-09-16.pdf",
+        "Ergebnis": "Beschwerde zur&uuml;ckgewiesen",
+        "Zusammenfassung": "Eine Anrufung des LSG Berlin (LSG-BE-2013-08-27-1) wurde abgewiesen. Die Antragsteller erhoben dagegen eine Nichtzulassungsbeschwerde. Das Bundesschiedsgericht stellte fest, dass die Anrufung zu Recht abgewiesen wurde. Die Anrufung enthielt keine Begr&uuml;ndung, und diese wurde nicht innerhalb der von der Schiedsgerichtsordnung geforderten Frist nachgeliefert."
+    },
+    {
+        "Aktenzeichen": "BSG 2013-10-25",
+        "Anrufung": "25.10.2013",
+        "Erledigung": "31.10.2013",
+        "Urteil": "_Datei_BSG_2013-10-25.pdf",
+        "Ergebnis": "Berufung abgewiesen",
+        "Zusammenfassung": "Der Berufungsf&uuml;hrer w&uuml;nscht eine Gliederungsordnungsma&szlig;nahme per einstweiliger Anordnung aufzuheben, da Formvorschriften der Satzung nicht eingehalten worden w&auml;ren. Das Landesschiedsgericht Bayern lehnte eine einstweilige Anordnung ab (LSG-BY-2013-10-19). Das Bundesschiedsgericht stellte fest, dass die Ordnungsma&szlig;nahme nicht offenkundig satzungswidrig ergangen war, und lehnte den Erlass einer einstweiligen Anordnung ebenfalls ab."
+    },
+    {
+        "Aktenzeichen": "BSG 2013-11-12",
+        "Anrufung": "12.11.2013",
+        "Erledigung": "21.11.2013",
+        "Urteil": "_Datei_BSG_2013-11-12-EA.pdf",
+        "Ergebnis": "Einstweilige Anordnung erlassen",
+        "Zusammenfassung": "Der Bundesvorstand hatte gegen die Antragstellerin ein Hausverbot f&uuml;r den BPT 2013.2, den BPT 2014.1 und die Aufstellungsversammlung zur Europawahl erlassen. Die Antragsstellerin begehrt eine einstweilige Verf&uuml;gung gegen das Hausverbot. Das Bundesschiedsgericht stellte fest, dass die Mitgliedsrechte w&auml;hrend eines Parteiausschlussverfahrens nicht automatisch ruhen, da die entsprechende Satzungsnorm nicht mit &sect; 10 Abs. 5 S.4 PartG vereinbar und damit nichtig ist und somit ein Hausverbot die Antragstellerin in ihren Mitgliedsrechten beschneidet, da dadurch ihr Teilnahme am Bundesparteitag verhindert w&uuml;rde."
+    }
   ]
  },
 
@@ -183,6 +990,146 @@
    { "Name": "Lara L&auml;mke", "Ersatz": 1, "Link": "https://wiki.piratenpartei.de/Benutzer:Sofakante" },
    { "Name": "Harald Kibbat", "Ersatz": 1, "Link": "https://wiki.piratenpartei.de/Benutzer:MainBrain" } ],
   "Urteile": [
+    {
+        "Aktenzeichen": "BSG 2013-07-04",
+        "Anrufung": "04.07.2013",
+        "Erledigung": "23.01.2014",
+        "Urteil": "_Datei_BSG_2013-07-04.pdf",
+        "Ergebnis": "Berufung zur&uuml;ckgewiesen",
+        "Zusammenfassung": "Der Antragsteller wendet sich gegen einen Schreibrechtsentzug auf einer Mailingliste. Die Parteimitgliedschaft des Antragsteller endete w&auml;hrend des Verfahrens, womit das Verfahren hinf&auml;llig wurde. Das Bundesschiedsgericht h&auml;lt jedoch fest, dass ein Moderationsbeschluss gegen&uuml;ber dem Mitglied begr&uuml;ndet werden muss."
+    },
+    {
+        "Aktenzeichen": "BSG 2013-08-14",
+        "Anrufung": "24.06.2013",
+        "Verweisung": "14.08.2013",
+        "Erledigung": "19.12.2013",
+        "Urteil": "_Datei_BSG_2013-08-14.pdf",
+        "Ergebnis": "Klage stattgegeben",
+        "Zusammenfassung": "Der Antragsteller m&ouml;chte einen Programmbeschluss des Landesparteitags Bremen aufheben lassen. Der zugeh&ouml;rige Programmantrag wurde erst auf dem Parteitag erarbeitet. Das Bundesschiedsgericht stellte fest, dass die Bundessatzung das Satzungsrecht der Landesverb&auml;nde weitreichend einschr&auml;nkt. Insbesondere haben Landesverb&auml;nde nicht die M&ouml;glichkeit eigene Antragsfristen (oder deren Entbehrlichkeit) festzulegen. <i>(Der &sect; 14 Abs. 2 der Bundessatzung wurde <a href=\"http:\/\/wiki.piratenpartei.de\/Antrag:Bundesparteitag_2014.1\/Antragsportal\/S&Auml;A009\">am BPT 2014.1 gestrichen</a>)</i>"
+    },
+    {
+        "Aktenzeichen": "BSG 2013-08-30",
+        "Anrufung": "30.08.2013",
+        "Erledigung": "13.02.2014",
+        "Urteil": "_Datei_BSG_2013-08-30.pdf",
+        "Ergebnis": "Klage abgewiesen",
+        "Zusammenfassung": "Der Beschwerdef&uuml;hrer begehrt die Anfechtung der Beschl&uuml;sse einer Kreismitgliederversammlung in einem Kreis und Kreisverband. Das Bundesschiedsgericht stellte fest, dass eine solche Kreismitgliederversammlung keine im solche im Sinne des PartG bzw. BGB ist und auch kein Organ einer Gliederung und daher lediglich Empfehlungen ohne Bindungswirkung beschlie&szlig;en kann. Die strengen Anforderung an Einladungen zu Mitgliederversammlungen mit Organqualit&auml;t sind daher hier nicht anzuwenden."
+    },
+    {
+        "Aktenzeichen": "BSG 2013-11-01",
+        "Anrufung": "01.11.2013",
+        "Erledigung": "13.02.2014",
+        "Urteil": "_Datei_BSG_2013-11-01.pdf",
+        "Ergebnis": "Erstinstanzliches Urteil aufgehoben",
+        "Zusammenfassung": "Gegen den Berufungsf&uuml;hrer wurde ein Parteiausschlussverfahren vor dem Landesschiedsgericht beantragt. Der Landesvorstand beantragte dabei beim Landesschiedsgericht das Ruhen der Mitgliedsrechte, das Landesschiedsgericht gab dem statt. Das Bundesschiedsgericht stellte fest, dass eine solche aufgrund Kompetenzmangels evident satzungs- und parteiengesetzwidrige Entscheidung an einem derartig schwerwiegenden und offensichtlichem Mangel leidet, dass sie von vorn herein nichtig und unbeachtlich ist."
+    },
+    {
+        "Aktenzeichen": "BSG 2013-11-15",
+        "Anrufung": "15.11.2013",
+        "Erledigung": "27.03.2014",
+        "UrteilExtern": "http:\/\/piraten-bsg.de\/#1925438962",
+        "Ergebnis": "Verfahren nicht er&ouml;ffnet",
+        "Zusammenfassung": "Der Antragsteller m&ouml;chte Widerspruch gegen eine Zusammenlegung zweier Verfahren durch ein Landesschiedsgericht einlegen. Das Bundesschiedsgericht stellte fest, dass hiergegen kein Rechtsmittel besteht."
+    },
+    {
+        "Aktenzeichen": "BSG 2013-11-19",
+        "Anrufung": "19.11.2013",
+        "Erledigung": "19.12.2013",
+        "Urteil": "_Datei_BSG_2013-11-19.pdf",
+        "Ergebnis": "Antrag abgewiesen",
+        "Zusammenfassung": "Der Antragsteller w&uuml;nscht den Bundesvorstand zu verpflichten dass zum Bundesparteitag am 04.\/05.01.2014 s&auml;mtliche Mitglieder ohne Ber&uuml;cksichtigung der F&auml;lligkeit des Mitgliedsbeitrags 2014 zu akkreditieren. Das Bundesschiedsgericht stellte fest, dass nach der Satzungsregelung das Stimmrecht auf Pr&auml;senzparteitagen die Zahlung aller Mitgliedsbeitr&auml;ge erfordert. Bei kurzfristiger Zahlung mittels &Uuml;berweisung kann dem Mitglied eine Nachweispflicht zugemutet werden, bei Nutzung von Lastschriftverfahren muss die Zahlung widerleglich vermutet werden."
+    },
+    {
+        "Aktenzeichen": "BSG 2013-11-27",
+        "Anrufung": "27.11.2013",
+        "Erledigung": "16.01.2014",
+        "Urteil": "_Datei_BSG_2013-11-27.pdf",
+        "Ergebnis": "Beschwerde zur&uuml;ckgewiesen",
+        "Zusammenfassung": "Der Antragsteller w&uuml;nscht im einstweiligen Rechtsschutz Abstimmungen der st&auml;ndige dezentrale Mitgliederversammlung im Landesverband Rheinland-Pfalz zu untersagen. Das Landesschiedsgericht RLP lehnte eine einstweilige Verf&uuml;gung ab, da es keinen Anordnungsgrund, insbesondere keine Eilbed&uuml;rftigkeit erkennen konnte. Das Bundesschiedsgericht folgte dieser Ansicht."
+    },
+    {
+        "Aktenzeichen": "BSG 2013-12-02",
+        "Anrufung": "02.12.2013",
+        "Erledigung": "15.12.2013",
+        "Urteil": "_Datei_BSG_2013-12-02.pdf",
+        "Ergebnis": "Verfahren an LSG zur&uuml;ckverwiesen",
+        "Zusammenfassung": ""
+    },
+    {
+        "Aktenzeichen": "BSG 2013-12-04",
+        "Anrufung": "04.12.2013",
+        "Erledigung": "16.01.2014",
+        "Urteil": "_Datei_BSG_2013-12-04.pdf",
+        "Ergebnis": "Beschwerde abgewiesen",
+        "Zusammenfassung": "In einer abstrakten Streitfrage ob Ordnungsma&szlig;nahmen per Einschreiben zugestellt werden m&uuml;ssen, legte der Antragsteller Beschwerde gegen den Beschluss des Landesschiedsgerichtes Sachsen-Anhalt, LSG-LSA 2013-10-23-c ein. Das Bundesschiedsgericht stellte fest, dass die urspr&uuml;ngliche Anrufung nicht zur Entscheidung h&auml;tte zugelassen werden d&uuml;rfen. Es hob den Beschluss des Landesschiedsgerichtes auf, und wies die Beschwerde ab."
+    },
+    {
+        "Aktenzeichen": "BSG 2013-12-05-3",
+        "Anrufung": "05.12.2013",
+        "Erledigung": "13.02.2014",
+        "Urteil": "_Datei_BSG_2013-12-05-3.pdf",
+        "Ergebnis": "Beschwerde zur&uuml;ckgewiesen",
+        "Zusammenfassung": "siehe BSG 2013-12-05-1"
+    },
+    {
+        "Aktenzeichen": "BSG 2013-12-05-2",
+        "Anrufung": "05.12.2013",
+        "Erledigung": "13.02.2014",
+        "Urteil": "_Datei_BSG_2013-12-05-2.pdf",
+        "Ergebnis": "Beschwerde zur&uuml;ckgewiesen",
+        "Zusammenfassung": "siehe BSG 2013-12-05-1"
+    },
+    {
+        "Aktenzeichen": "BSG 2013-12-05-1",
+        "Anrufung": "05.12.2013",
+        "Erledigung": "13.02.2014",
+        "Urteil": "_Datei_BSG_2013-12-05-1.pdf",
+        "Ergebnis": "Beschwerde zur&uuml;ckgewiesen",
+        "Zusammenfassung": "Der Beschwerdef&uuml;hrer wendet sich gegen einen Nichter&ouml;ffnungsbeschluss des Landesschiedsgerichts Bayern LSG-BY-2013-11-19#1. Dies hielt seine Anrufung, insbesondere auf Aufhebung einer Ablehnung des Landesvorstandes, eine Ordnungsma&szlig;nahme zu erteilen und Antrag auf Ordnungsma&szlig;nahme, f&uuml;r offensichtlich unzul&auml;ssig. Das Bundesschiedsgericht stellte fest, dass die Beschwerde unbegr&uuml;ndet ist, da die Anrufung lediglich offensichtlich unzul&auml;ssige Antr&auml;ge enthielt. Die Verfahren BSG 2013-12-05-2 und -3 sind inhaltlich identisch."
+    },
+    {
+        "Aktenzeichen": "BSG 2013-12-10",
+        "Anrufung": "10.12.2013",
+        "Erledigung": "19.12.2013",
+        "Urteil": "_Datei_BSG_2013-12-10.pdf",
+        "Ergebnis": "Antrag abgewiesen",
+        "Zusammenfassung": "Die Antragsteller w&uuml;nschen die Einstufung des von ihnen zum Bundesparteitag am 04.\/05.01.2014 eingereichten Antrags als 'formal ungen&uuml;gend' durch die Antragskommission aufzuheben, und die korrekte Einreichung des Antrags durch einstweilige Anordnung festzustellen. Das Bundesschiedsgericht stellte fest, dass der Antrag trotz Versto&szlig;es gegen die Antragsordnung korrekt eingereicht wurde. Der Antrag wurde auch von der Antragskommission dementsprechend behandelt, und ist insbesondere bereits im Antragsbuch enthalten und kann auf dem BPT 2014.1 abgestimmt werden. Da der Antrag die Formkriterien der Antragsordnung nicht erf&uuml;llt, gibt es keine Rechtsgrundlage f&uuml;r eine Gleichbehandlung des Antrags mit anderen Antr&auml;gen, die die Formkriterien erf&uuml;llen. Insbesondere muss der Antrag nicht in Umfragen des Bundesvorstands f&uuml;r seinen Tagesordnungsvorschlag ber&uuml;cksichtigt werden. Antr&auml;ge k&ouml;nnen nach Einreichung nicht mehr ver&auml;ndert werden."
+    },
+    {
+        "Aktenzeichen": "BSG 2013-12-30",
+        "Kammer": "Kammer 1",
+        "Anrufung": "30.12.2013",
+        "Erledigung": "19.01.2014",
+        "Urteil": "_Datei_BSG_2013-12-30.pdf",
+        "Ergebnis": "Beschwerde zur&uuml;ckgewiesen",
+        "Zusammenfassung": "Der Beschwerdef&uuml;hrer rief das Landesschiedsgericht NRW im Verfahren LSG-NRW-2013-032-1 ohne Angabe einer eigenen Anschrift an. Das Landesschiedsgericht bat erfolglos um Nachbesserung und wies die Anrufung schlie&szlig;lich ab. Die hiergegen gerichtete Beschwerde blieb erfolglos; Das Bundesschiedsgericht stellte fest, dass auch Gliederungen bei Schiedsgerichtsverfahren eine postalische Anschrift angeben m&uuml;ssen."
+    },
+    {
+        "Aktenzeichen": "BSG 1\/14-H A",
+        "Kammer": "Kammer A",
+        "Anrufung": "10.01.2014",
+        "Erledigung": "22.02.2014",
+        "Urteil": "_Datei_BSG_1-14-H-A.pdf",
+        "Ergebnis": "Zur&uuml;ckverwiesen an das LSG RLP",
+        "Zusammenfassung": "Gegen zwei der noch verf&uuml;gbaren drei Richter am Landesschiedsgericht wurde je ein Antrag auf Feststellung der Besorgnis der  Befangenheit eingereicht. Das LSG verwies den Fall darauf an das BSG. Das BSG stellt fest, dass das LSG f&uuml;r die Befangenheitsfrage noch beschlussf&auml;hig gewesen w&auml;re."
+    },
+    {
+        "Aktenzeichen": "BSG 2\/14-H 1",
+        "Kammer": "Kammer 1",
+        "Anrufung": "19.01.2014",
+        "Erledigung": "04.02.2014",
+        "Urteil": "_Datei_BSG_2-14.pdf",
+        "Ergebnis": "Beschwerde verworfen",
+        "Zusammenfassung": "Der Antragsteller legte Unt&auml;tigkeitsbeschwerde gegen ein Landesschiedsgericht ein, da dieses nach einem Monat noch nicht &uuml;ber die Verfahrenser&ouml;ffnung entschieden hatte. W&auml;hrend des Beschwerdeverfahrens entschied das Landesschiedsgericht &uuml;ber die Verfahrenser&ouml;ffnung, womit die Grundlage der Beschwerde entfiel."
+    },
+    {
+        "Aktenzeichen": "BSG 2013-10-05",
+        "Anrufung": "05.10.2013",
+        "Erledigung": "22.02.2014",
+        "Urteil": "_Datei_BSG_2013-10-05.pdf",
+        "Ergebnis": "Urteil der Vorinstanz aufgehoben",
+        "Zusammenfassung": "Das Landesschiedsgericht hatte in der Vorinstanz einem Parteiausschluss stattgegeben. Das Bundesschiedsgericht stellt fest, dass die Vorw&uuml;rfe so nur teilweise &uuml;berhaupt einen Versto&szlig; gegen die Ordnung der Partei darstellen und nicht so schwerwiegend sind, dass ein Parteiausschluss gerechtfertigt w&auml;re. Das Bundesschiedsgerichts hob daher das Urteil auf und verh&auml;ngte stattdessen die Ordnungsma&szlig;nahme eines Verweises gegen den Berufungsf&uuml;hrer."
+    },
    {
     "Aktenzeichen": "BSG 2013-10-28",
     "Anrufung": "28.10.2013",
@@ -553,3 +1500,4 @@
  }
 
 ]
+

@@ -195,7 +195,7 @@
    { "Name": "Joachim Bokor", "Vorsitz": 1, "Link": "https://wiki.piratenpartei.de/Benutzer:Puck.152" },
    { "Name": "Harald Kibbat", "Link": "https://wiki.piratenpartei.de/Benutzer:MainBrain" },
    { "Name": "Claudia M. Schmidt", "Link": "https://wiki.piratenpartei.de/Benutzer:Claudia_M.Schmidt" },
-   { "Name": "Markus Gerstel", "Link": "https://wiki.piratenpartei.de/Benutzer:Anthem" },
+   { "Name": "Markus Gerstel" },
    { "Name": "Michael Ebner", "Link": "https://wiki.piratenpartei.de/Benutzer:Michael_Ebner" },
    { "Name": "Georg von Boroviczeny", "Ersatz": 1, "Link": "https://wiki.piratenpartei.de/Benutzer:Georgberlin" },
    { "Name": "Thomas Herzog", "Ersatz": 1 } ],
@@ -362,7 +362,7 @@
   "Zeitraum": "2012/13",
   "Wahl": "29. April 2012",
   "Richter": [
-   { "Name": "Markus Gerstel", "Vorsitz": 1, "Link": "https://wiki.piratenpartei.de/Benutzer:Anthem" },
+   { "Name": "Markus Gerstel", "Vorsitz": 1 },
    { "Name": "Joachim Bokor", "Link": "https://wiki.piratenpartei.de/Benutzer:Puck.152" },
    { "Name": "Claudia M. Schmidt", "Link": "https://wiki.piratenpartei.de/Benutzer:Claudia_M.Schmidt" },
    { "Name": "Markus Kompa", "Link": "https://wiki.piratenpartei.de/Benutzer:Markus_Kompa" },
@@ -865,7 +865,7 @@
         "Erledigung": "21.11.2013",
         "Urteil": "_Datei_BSG_2013-06-18.pdf",
         "Ergebnis": "Berufung zur&uuml;ckgewiesen",
-        "Zusammenfassung": "Das Bundesschiedsgericht hat die Berufung gegen das Parteiausschluss LSG NRW 2012-10 zur&uuml;ckgewiesen. Das Parteiausschlussverfahren ist damit erfolgreich. Sachverhalt und Begr&uuml;ndung werden nach &sect; 12 Abs. 4 Satz 2 SGO nicht ver&ouml;ffentlicht."
+        "Zusammenfassung": "Das Bundesschiedsgericht hat die Berufung gegen den Parteiausschluss LSG NRW 2012-10 zur&uuml;ckgewiesen. Das Parteiausschlussverfahren ist damit erfolgreich. Sachverhalt und Begr&uuml;ndung werden nach &sect; 12 Abs. 4 Satz 2 SGO nicht ver&ouml;ffentlicht."
     },
     {
         "Aktenzeichen": "BSG 2013-06-21",
@@ -981,7 +981,7 @@
   "Zeitraum": "2013/15",
   "Wahl": "01. Dezember 2013",
   "Richter": [
-   { "Name": "Markus Gerstel", "Vorsitz": 1, "Link": "https://wiki.piratenpartei.de/Benutzer:Anthem" },
+   { "Name": "Markus Gerstel", "Vorsitz": 1 },
    { "Name": "Claudia M. Schmidt", "Link": "https://wiki.piratenpartei.de/Benutzer:Claudia_M.Schmidt" },
    { "Name": "Daniela Berger", "Link": "https://wiki.piratenpartei.de/Benutzer:DanielaKay" },
    { "Name": "Florian Zumkeller-Quast", "Link": "https://wiki.piratenpartei.de/Benutzer:Branleb" },
@@ -1602,6 +1602,14 @@
     "Urteil": "BSG 49-14-H S.pdf",
     "Ergebnis": "Verfahrensverweisung stattgegeben",
     "Zusammenfassung": "Drei von f&uuml;nf (Ersatz-)Richter*innen am Landesschiedsgericht Brandenburg waren per Beschluss wegen Besorgnis der Befangenheit aus dem Verfahren ausgeschieden. Das Landesschiedsgericht erkl&auml;rte sich daraufhin f&uuml;r handlungsunf&auml;hig und bat das Bundesschiedsgericht um Verfahrensverweisung. Das Bundesschiedsgericht verwies das Verfahren an das Landesschiedsgericht Mecklenburg-Vorpommern."
+   },
+   {
+    "Aktenzeichen": "BSG 50/14-H S",
+    "Anrufung": "04.11.2014",
+    "Erledigung": "15.01.2015",
+    "Urteil": "BSG 50-14-H S.pdf",
+    "Ergebnis": "Berufung zur&uuml;ckgewiesen",
+    "Zusammenfassung": "Das Bundesschiedsgericht hat die Berufung gegen den Parteiausschluss LSG-SH 5/14 zur&uuml;ckgewiesen. Das Parteiausschlussverfahren ist damit erfolgreich. Der Antragsgegner und Berufungsf&uuml;hrer zahlte verbliebene Mittel aus einem Vorschuss trotz eines ergangenen Vers&auml;umnisurteils nicht an seinen Landesverband zur&uuml;ck. Das Bundesschiedsgericht stellte einen Versto&szlig; gegen die Ordnung der Partei und einen dadurch der Partei entstandenen schweren Schaden fest."
    },
    {
     "Aktenzeichen": "BSG 51/14-H S",

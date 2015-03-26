@@ -1736,7 +1736,7 @@
     "Anrufung": "04.02.2015",
     "Erledigung": "12.03.2015",
     "Urteil": "BSG 13-15-H S.pdf",
-    "Ergebnis": "Verfahren verwiesen.",
+    "Ergebnis": "Verfahren verwiesen",
     "Zusammenfassung": "Das Landesschiedsgericht Niedersachsen beantragte ein Verfahren an ein anderes Landesschiedsgericht zu verweisen, da es selbst infolge von Befangenheiten handlungsunf&auml;hig geworden sei. Das Bundesschiedsgericht stellte die Handlungsunf&auml;higkeit fest und verwies das Verfahren."
    },
    {
@@ -1744,8 +1744,16 @@
     "Anrufung": "07.03.2015",
     "Erledigung": "12.03.2015",
     "Urteil": "BSG 14-15-H S.pdf",
-    "Ergebnis": "Verfahren nicht er&ouml;ffnet.",
+    "Ergebnis": "Verfahren nicht er&ouml;ffnet",
     "Zusammenfassung": "Der Gliederungsvorstand wollte per Berufung gegen ein Urteil in einer Ordnungsma&szlig;nahmeneinspruchsangelegenheit vorgehen. Das Bundesschiedsgericht stellt fest, dass das betroffene Mitglied ausgetreten war und daher das Verfahren nicht zu er&ouml;ffnen war."
+   },
+   {
+    "Aktenzeichen": "BSG 15/15-H S",
+    "Anrufung": "11.03.2015",
+    "Erledigung": "19.03.2015",
+    "Urteil": "BSG 15-15-H S.pdf",
+    "Ergebnis": "Verfahren verwiesen",
+    "Zusammenfassung": "Eine Anrufung an das unterbesetzte und damit handlungsunf&auml;hige Landesschiedsgericht Rheinland-Pfalz wurde an das Landesschiedsgericht Sachsen-Anhalt verwiesen."
    }
   ]
  }

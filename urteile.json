@@ -1775,6 +1775,13 @@
     "Aktenzeichen": "BSG 18/15-H S",
     "Anrufung": "02.01.2015",
     "Erledigung": "07.05.2015",
+    "Historie": [
+       { "Datum": "05.02.2015", "Ereignis": "Befangenheit I" },
+       { "Datum": "12.02.2015", "Ereignis": "Er&ouml;ffnung" },
+       { "Datum": "05.03.2015", "Ereignis": "Befangenheit II", "Beschluss": "BSG 18-15-H S Befangenheit II.pdf" },
+       { "Datum": "19.03.2015", "Ereignis": "Verfahrenstrennung", "Beschluss": "BSG 18-15-H S Befangenheit II.pdf" },
+       { "Datum": "30.04.2015", "Ereignis": "Befangenheit III", "Beschluss": "BSG 18-15-H S Befangenheit III.pdf" }
+    ],
     "Urteil": "BSG 18-15-H S.pdf",
     "Ergebnis": "Erstinstanzliches Urteil teilweise aufgehoben",
     "Zusammenfassung": "In einem Ausschlussverfahren zog der Parteivorstand den Antrag auf Parteiausschluss zur&uuml;ck. Das erstinstanzliche Urteil LSG-BE-2014-08-31 wurde daher, soweit es den Bundesvorstand betrifft, aufgehoben."

@@ -1784,7 +1784,7 @@
     "Anrufung": "02.01.2015",
     "Erledigung": "07.05.2015",
     "Historie": [
-       { "Datum": "05.02.2015", "Ereignis": "Befangenheit I" },
+       { "Datum": "05.02.2015", "Ereignis": "Befangenheit I", "Beschluss": "BSG 18-15-H S Befangenheit I.pdf" },
        { "Datum": "12.02.2015", "Ereignis": "Er&ouml;ffnung" },
        { "Datum": "05.03.2015", "Ereignis": "Befangenheit II", "Beschluss": "BSG 18-15-H S Befangenheit II.pdf" },
        { "Datum": "19.03.2015", "Ereignis": "Verfahrenstrennung", "Beschluss": "BSG 18-15-H S Befangenheit II.pdf" },

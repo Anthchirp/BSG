@@ -1927,17 +1927,6 @@
     "Zusammenfassung": "Der Beschwerdef&uuml;hrer w&uuml;nscht Unt&auml;tigkeitsbeschwerde gegen ein Landesschiedsgericht zu erheben. Das Bundesschiedsgericht stellt das Scheitern an den formalen Voraussetzungen einer Anrufung fest, welche unter anderem die Benennung eines Beschwerdegegners erfordern."
    },
    {
-    "Aktenzeichen": "BSG 36/15-H S",
-    "Anrufung": "04.07.2015",
-    "Erledigung": "",
-    "Urteil": "",
-    "Historie": [
-       { "Datum": "23.07.2015", "Ereignis": "Befangenheit", "Beschluss": "BSG 36-15-H S Befangenheit.pdf" }
-    ],
-    "Ergebnis": "",
-    "Zusammenfassung": ""
-   },
-   {
     "Aktenzeichen": "BSG 37/15-E S",
     "Anrufung": "08.07.2015",
     "Erledigung": "16.07.2015",
@@ -1970,11 +1959,23 @@
   "Wahl": "26. Juli 2015",
   "Richter": [
    { "Name": "Michael Ebner", "Link": "https://wiki.piratenpartei.de/Benutzer:Michael_Ebner" },
-   { "Name": "Markus Kompa" },
-   { "Name": "Gregory Engels" },
-   { "Name": "Klaus Sommerfeld" },
+   { "Name": "Markus Kompa", "Link": "http://wiki.piratenpartei.de/Benutzer:Markus_Kompa" },
+   { "Name": "Gregory Engels", "Link": "http://wiki.piratenpartei.de/Benutzer:Dichter" },
+   { "Name": "Klaus Sommerfeld", "Link": "http://wiki.piratenpartei.de/Benutzer:K.S" },
    { "Name": "Harald Kibbat", "Link": "https://wiki.piratenpartei.de/Benutzer:MainBrain" } ],
-  "Urteile": []
+  "Urteile": [
+   {
+    "Aktenzeichen": "BSG 36/15-H S",
+    "Anrufung": "04.07.2015",
+    "Erledigung": "",
+    "Urteil": "",
+    "Historie": [
+       { "Datum": "23.07.2015", "Ereignis": "Befangenheit", "Beschluss": "BSG 36-15-H S Befangenheit.pdf" }
+    ],
+    "Ergebnis": "",
+    "Zusammenfassung": ""
+   }
+  ]
  }
 
 ]

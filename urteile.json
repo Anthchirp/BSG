@@ -1962,6 +1962,19 @@
     "Zusammenfassung": "Der in vorheriger Instanz unterlegene Berufungsf&uuml;hrer m&ouml;chte das Urteil der Vorinstanz anfechten. Das Bundesschiedsgericht stellt fest, dass die Anrufung unvollst&auml;ndig ist, und lehnt die Verfahrenser&ouml;ffnung ab."
    }
   ]
+ },
+
+ {
+  "BSG": 8,
+  "Zeitraum": "2015/17",
+  "Wahl": "26. Juli 2015",
+  "Richter": [
+   { "Name": "Michael Ebner", "Link": "https://wiki.piratenpartei.de/Benutzer:Michael_Ebner" },
+   { "Name": "Markus Kompa" },
+   { "Name": "Gregory Engels" },
+   { "Name": "Klaus Sommerfeld" },
+   { "Name": "Harald Kibbat", "Link": "https://wiki.piratenpartei.de/Benutzer:MainBrain" } ],
+  "Urteile": []
  }
 
 ]
